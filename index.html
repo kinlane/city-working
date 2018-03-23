@@ -21,7 +21,7 @@ title: API Evangelist - 311
 				<table width="100%">
 				{% for domain in domains %}
 					<tr>
-						<td><a href="{{ domain.domain }}" target="_blank">{{ domain.domain }}</a></td>
+						<td><a href="http://{{ domain.domain }}" target="_blank">{{ domain.domain }}</a></td>
 						<td width="10%" align="center">{{ domain.count }}</td>
 					</tr>
 					{% assign domain_count = domain_count | plus: 1 %}
