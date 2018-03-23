@@ -31,12 +31,6 @@
   count: 1001
 - domain: cookcounty
   count: 0
-- domain: cw1
-  count: 0
-- domain: cw2
-  count: 0
-- domain: cwtest1
-  count: 0
 - domain: dashboard.alexandriava.gov
   count: 377
 - domain: dashboard.edmonton.ca
