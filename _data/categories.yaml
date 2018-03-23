@@ -57,7 +57,7 @@
   count: 616
 - domain_category: Ambiente y Desarrollo Sostenible
   count: 615
-- domain_category: '311'
+- domain_category: 311
   count: 598
 - domain_category: Gastos Gubernamentales
   count: 581
@@ -107,7 +107,7 @@
   count: 365
 - domain_category: Energy and Environment
   count: 360
-- domain_category: 'Goal 5: Efficient, Effective, and Accountable Government'
+- domain_category: Efficient, Effective, and Accountable Government
   count: 356
 - domain_category: Surveys
   count: 355
@@ -123,7 +123,7 @@
   count: 340
 - domain_category: Land Development
   count: 335
-- domain_category: 'Goal 4: Healthy and Safe Communities'
+- domain_category: Healthy and Safe Communities
   count: 325
 - domain_category: Transportation & Utilities
   count: 320
@@ -149,15 +149,15 @@
   count: 276
 - domain_category: Business and Economy
   count: 256
-- domain_category: 'Goal 2: Prosperous Economy'
+- domain_category: Prosperous Economy
   count: 247
 - domain_category: Administrative
   count: 235
-- domain_category: Marketplace - Indian Health Care Providers
+- domain_category: Indian Health Care Providers
   count: 231
 - domain_category: Vivienda, Ciudad y Territorio
   count: 230
-- domain_category: 'Goal 3: Sustainable Energy and a Clean Environment'
+- domain_category: Sustainable Energy and a Clean Environment
   count: 220
 - domain_category: Aerospace
   count: 218
@@ -185,7 +185,7 @@
   count: 183
 - domain_category: Finance & Administration
   count: 180
-- domain_category: 'Goal 1: World Class Education'
+- domain_category: World Class Education
   count: 177
 - domain_category: A Prosperous City
   count: 175
@@ -211,7 +211,7 @@
   count: 156
 - domain_category: Volunteering and Civic Engagement
   count: 156
-- domain_category: 'Industry Information '
+- domain_category: Industry Information
   count: 155
 - domain_category: Society
   count: 152
@@ -223,7 +223,7 @@
   count: 139
 - domain_category: Employment Projections
   count: 139
-- domain_category: 'Economic Self-Sufficiency '
+- domain_category: Economic Self-Sufficiency
   count: 137
 - domain_category: Housing
   count: 137
@@ -491,7 +491,7 @@
   count: 45
 - domain_category: Health and Community Services
   count: 44
-- domain_category: 'FY 2013-2014 '
+- domain_category: FY 2013-2014
   count: 44
 - domain_category: Lands, Forests and Wildlife
   count: 43
@@ -507,7 +507,7 @@
   count: 42
 - domain_category: KCI Terminal Advisory
   count: 42
-- domain_category: 'Information Technology (includes maps & geospatial data) '
+- domain_category: Information Technology (includes maps & geospatial data)
   count: 42
 - domain_category: Michigan Dashboard
   count: 42
@@ -613,7 +613,7 @@
   count: 33
 - domain_category: Administration
   count: 33
-- domain_category: 'FY 2014-2015 '
+- domain_category: FY 2014-2015
   count: 33
 - domain_category: GIS
   count: 32
@@ -672,7 +672,6 @@
 - domain_category: Property & Planning
   count: 28
 - domain_category: Special Programs/Initiatives - Medicare Shared Savings Program
-    (MSSP)
   count: 27
 - domain_category: TRANSPORTATION
   count: 27
@@ -776,7 +775,7 @@
   count: 23
 - domain_category: Arts, Culture and History
   count: 23
-- domain_category: 'Parcel '
+- domain_category: Parcel
   count: 23
 - domain_category: Geographic Information (GIS)
   count: 23
@@ -802,7 +801,7 @@
   count: 22
 - domain_category: Heritage and Arts
   count: 22
-- domain_category: 'Student Performance '
+- domain_category: Student Performance
   count: 22
 - domain_category: Housing / Development
   count: 21
@@ -838,7 +837,7 @@
   count: 20
 - domain_category: Gas Tax
   count: 20
-- domain_category: 'Enrollment '
+- domain_category: Enrollment
   count: 20
 - domain_category: Neighborhood Census Data
   count: 19
@@ -1078,9 +1077,9 @@
   count: 13
 - domain_category: Government Efficiency & Citizen Engagement
   count: 12
-- domain_category: 'Transportation '
+- domain_category: Transportation 
   count: 12
-- domain_category: 'A New Day for: Education and Workforce Development'
+- domain_category: A New Day for: Education and Workforce Development
   count: 12
 - domain_category: Target Markets
   count: 12
@@ -1102,7 +1101,7 @@
   count: 12
 - domain_category: Finance / Government
   count: 12
-- domain_category: 'Schools '
+- domain_category: Schools
   count: 12
 - domain_category: PUBLIC SAFETY
   count: 12
@@ -1156,7 +1155,7 @@
   count: 11
 - domain_category: State Government
   count: 11
-- domain_category: 'Negocios y Corporaciones '
+- domain_category: Negocios y Corporaciones
   count: 11
 - domain_category: Tax Increment Financing
   count: 11
@@ -1189,7 +1188,7 @@
   count: 10
 - domain_category: Health-Related Quality of Life
   count: 10
-- domain_category: 'Cessation Coverage '
+- domain_category: Cessation Coverage
   count: 10
 - domain_category: Street Maintenance
   count: 10
@@ -1203,7 +1202,7 @@
   count: 10
 - domain_category: Mental Health
   count: 10
-- domain_category: City Manager's Office (Finance)
+- domain_category: City Managers Office (Finance)
   count: 10
 - domain_category: Calls For Service
   count: 10
@@ -1441,7 +1440,7 @@
   count: 5
 - domain_category: Fees
   count: 5
-- domain_category: 'A New Day for: Healthcare Transformation'
+- domain_category: A New Day for: Healthcare Transformation
   count: 5
 - domain_category: Environment & Agriculture
   count: 5
@@ -1557,7 +1556,7 @@
   count: 4
 - domain_category: Financial Services
   count: 4
-- domain_category: 'A New Day for: Renewable Energy'
+- domain_category: A New Day for: Renewable Energy
   count: 4
 - domain_category: Court Records
   count: 4
@@ -1634,7 +1633,7 @@
   count: 3
 - domain_category: Workforce Development
   count: 3
-- domain_category: 'Traumatic Brain Injury '
+- domain_category: Traumatic Brain Injury
   count: 3
 - domain_category: People
   count: 3
@@ -1711,7 +1710,7 @@
   count: 3
 - domain_category: Supplier Directory
   count: 3
-- domain_category: Medicare's Helpful Contacts
+- domain_category: Medicares Helpful Contacts
   count: 3
 - domain_category: Health, Education, and Social Services
   count: 3
@@ -1729,7 +1728,7 @@
   count: 3
 - domain_category: Neighborhood
   count: 3
-- domain_category: 'FY 2016-2017 '
+- domain_category: FY 2016-2017
   count: 3
 - domain_category: Eligibility
   count: 3
@@ -1751,7 +1750,7 @@
   count: 3
 - domain_category: Pregnancy & Vaccination
   count: 3
-- domain_category: 'Materials '
+- domain_category: Materials
   count: 2
 - domain_category: Weather
   count: 2
@@ -1851,7 +1850,7 @@
   count: 2
 - domain_category: Dept of Natural Resources
   count: 2
-- domain_category: 'A New Day for: Safety Net, Homelessness, Public Safety'
+- domain_category: A New Day for: Safety Net, Homelessness, Public Safety
   count: 2
 - domain_category: Parks & Trails
   count: 2
@@ -1871,7 +1870,7 @@
   count: 1
 - domain_category: Water and Waste
   count: 1
-- domain_category: "'Demographics'"
+- domain_category: "Demographics"
   count: 1
 - domain_category: Marketplace - Pre-Existing Condition Insurance Plan (PCIP)
   count: 1
@@ -1915,7 +1914,7 @@
   count: 1
 - domain_category: Job Specifications
   count: 1
-- domain_category: 'A New Day for: Environmental Stewardship'
+- domain_category: A New Day for: Environmental Stewardship
   count: 1
 - domain_category: Elections Data
   count: 1
@@ -1927,7 +1926,7 @@
   count: 1
 - domain_category: Beautification
   count: 1
-- domain_category: 'A New Day for: Safety Net and Homelessness'
+- domain_category: A New Day for: Safety Net and Homelessness
   count: 1
 - domain_category: Special Programs/Initiatives - Bundled Payments
   count: 1
