@@ -1,2028 +1,3037 @@
 ---
-- domain_category: Earth Science
+-
   count: 22942
-- domain_category: Public Safety
+  domain_category: "Earth Science"
+-
   count: 5899
-- domain_category: Government
+  domain_category: "Public Safety"
+- 
   count: 4222
-- domain_category: Health
+  domain_category: Government
+- 
   count: 2175
-- domain_category: Transportation
+  domain_category: Health
+-
   count: 1897
-- domain_category: State Drug Utilization
+  domain_category: Transportation
+-
   count: 1809
-- domain_category: Education
+  domain_category: "State Drug Utilization"
+-
   count: 1695
-- domain_category: Environment
+  domain_category: Education
+-
   count: 1366
-- domain_category: Loans and Credits
+  domain_category: Environment
+-
   count: 1215
-- domain_category: Educación
+  domain_category: "Loans and Credits"
+-
   count: 1193
-- domain_category: Community
+  domain_category: Educación
+-
   count: 1120
-- domain_category: Energy & Environment
+  domain_category: Community
+-
   count: 1080
-- domain_category: Salud y Protección Social
+  domain_category: "Energy & Environment"
+-
   count: 1059
-- domain_category: Business
+  domain_category: "Salud y Protección Social"
+-
   count: 931
-- domain_category: City Government
+  domain_category: Business
+-
   count: 877
-- domain_category: Government and Taxes
+  domain_category: "City Government"
+-
   count: 852
-- domain_category: Función pública
+  domain_category: "Government and Taxes"
+-
   count: 826
-- domain_category: FY15 Approved
+  domain_category: "Función pública"
+-
   count: 809
-- domain_category: FY15 Recommended
+  domain_category: "FY15 Approved"
+-
   count: 773
-- domain_category: National Service
+  domain_category: "FY15 Recommended"
+-
   count: 694
-- domain_category: Procurement
+  domain_category: "National Service"
+-
   count: 690
-- domain_category: Finance
+  domain_category: Procurement
+-
   count: 663
-- domain_category: Social Services
+  domain_category: Finance
+-
   count: 662
-- domain_category: Traffic
+  domain_category: "Social Services"
+-
   count: 660
-- domain_category: Recreation
+  domain_category: Traffic
+-
   count: 644
-- domain_category: Trust Funds and FIFs
+  domain_category: Recreation
+-
   count: 641
-- domain_category: Health & Human Services
+  domain_category: "Trust Funds and FIFs"
+-
   count: 627
-- domain_category: City Services
+  domain_category: "Health & Human Services"
+-
   count: 616
-- domain_category: Ambiente y Desarrollo Sostenible
+  domain_category: "City Services"
+-
   count: 615
-- domain_category: 311
+  domain_category: "Ambiente y Desarrollo Sostenible"
+-
   count: 598
-- domain_category: Gastos Gubernamentales
+  domain_category: 311
+-
   count: 581
-- domain_category: City Management and Ethics
+  domain_category: "Gastos Gubernamentales"
+-
   count: 566
-- domain_category: Ciencia, Tecnología e Innovación
+  domain_category: "City Management and Ethics"
+-
   count: 561
-- domain_category: Audits and Reports
+  domain_category: "Ciencia, Tecnología e Innovación"
+-
   count: 554
-- domain_category: Agricultura y Desarrollo Rural
+  domain_category: "Audits and Reports"
+-
   count: 525
-- domain_category: CountyStat_Measures
+  domain_category: "Agricultura y Desarrollo Rural"
+-
   count: 507
-- domain_category: Drug Pricing and Payment
+  domain_category: CountyStat_Measures
+-
   count: 501
-- domain_category: Transporte
+  domain_category: "Drug Pricing and Payment"
+-
   count: 500
-- domain_category: Seguridad y Defensa
+  domain_category: Transporte
+-
   count: 492
-- domain_category: Estadísticas Nacionales
+  domain_category: "Seguridad y Defensa"
+-
   count: 466
-- domain_category: Economic Development
+  domain_category: "Estadísticas Nacionales"
+-
   count: 456
-- domain_category: Housing & Development
+  domain_category: "Economic Development"
+-
   count: 447
-- domain_category: Inclusión Social y Reconciliación
+  domain_category: "Housing & Development"
+-
   count: 414
-- domain_category: Demographics
+  domain_category: "Inclusión Social y Reconciliación"
+-
   count: 414
-- domain_category: Natural Resources & Environment
+  domain_category: Demographics
+-
   count: 407
-- domain_category: Revenue & Expense
+  domain_category: "Natural Resources & Environment"
+-
   count: 404
-- domain_category: Permitting
+  domain_category: "Revenue & Expense"
+-
   count: 379
-- domain_category: Management/Operations
+  domain_category: Permitting
+-
   count: 378
-- domain_category: Water
+  domain_category: Management/Operations
+-
   count: 376
-- domain_category: Report
+  domain_category: Water
+-
   count: 371
-- domain_category: Economy
+  domain_category: Report
+-
   count: 369
-- domain_category: Ordenamiento Territorial
+  domain_category: Economy
+-
   count: 367
-- domain_category: Census
+  domain_category: "Ordenamiento Territorial"
+-
   count: 365
-- domain_category: Energy and Environment
+  domain_category: Census
+-
   count: 360
-- domain_category: Efficient, Effective, and Accountable Government
+  domain_category: "Energy and Environment"
+-
   count: 356
-- domain_category: Surveys
+  domain_category: "Efficient, Effective, and Accountable Government"
+-
   count: 355
-- domain_category: Comercio, Industria y Turismo
+  domain_category: Surveys
+-
   count: 354
-- domain_category: Hacienda y Crédito Público
+  domain_category: "Comercio, Industria y Turismo"
+-
   count: 352
-- domain_category: Health and Human Services
+  domain_category: "Hacienda y Crédito Público"
+-
   count: 345
-- domain_category: Economía y Finanzas
+  domain_category: "Health and Human Services"
+-
   count: 343
-- domain_category: Contact Centre - 311
+  domain_category: "Economía y Finanzas"
+-
   count: 340
-- domain_category: Land Development
+  domain_category: "Contact Centre - 311"
+-
   count: 335
-- domain_category: Healthy and Safe Communities
+  domain_category: "Land Development"
+-
   count: 325
-- domain_category: Transportation & Utilities
+  domain_category: "Healthy and Safe Communities"
+-
   count: 320
-- domain_category: Human Resources
+  domain_category: "Transportation & Utilities"
+-
   count: 319
-- domain_category: Budget
+  domain_category: "Human Resources"
+-
   count: 314
-- domain_category: My Neighborhood
+  domain_category: Budget
+-
   count: 314
-- domain_category: Human Services
+  domain_category: "My Neighborhood"
+-
   count: 297
-- domain_category: Neighborhoods
+  domain_category: "Human Services"
+-
   count: 297
-- domain_category: Election results
+  domain_category: Neighborhoods
+-
   count: 293
-- domain_category: Government & Finance
+  domain_category: "Election results"
+-
   count: 287
-- domain_category: Space Science
+  domain_category: "Government & Finance"
+-
   count: 286
-- domain_category: Cultura
+  domain_category: "Space Science"
+-
   count: 283
-- domain_category: Government-Wide Support
+  domain_category: Cultura
+-
   count: 276
-- domain_category: Business and Economy
+  domain_category: "Government-Wide Support"
+-
   count: 256
-- domain_category: Prosperous Economy
+  domain_category: "Business and Economy"
+-
   count: 247
-- domain_category: Administrative
+  domain_category: "Prosperous Economy"
+-
   count: 235
-- domain_category: Indian Health Care Providers
+  domain_category: Administrative
+-
   count: 231
-- domain_category: Vivienda, Ciudad y Territorio
+  domain_category: "Indian Health Care Providers"
+-
   count: 230
-- domain_category: Sustainable Energy and a Clean Environment
+  domain_category: "Vivienda, Ciudad y Territorio"
+-
   count: 220
-- domain_category: Aerospace
+  domain_category: "Sustainable Energy and a Clean Environment"
+-
   count: 218
-- domain_category: Business & Economy
+  domain_category: Aerospace
+-
   count: 211
-- domain_category: Crime
+  domain_category: "Business & Economy"
+-
   count: 210
-- domain_category: Healthcare
+  domain_category: Crime
+-
   count: 207
-- domain_category: State
+  domain_category: Healthcare
+-
   count: 206
-- domain_category: GIS/Maps
+  domain_category: State
+-
   count: 203
-- domain_category: Administration & Finance
+  domain_category: GIS/Maps
+-
   count: 202
-- domain_category: Police
+  domain_category: "Administration & Finance"
+-
   count: 202
-- domain_category: Utilities and City Services
+  domain_category: Police
+-
   count: 194
-- domain_category: City Administration
+  domain_category: "Utilities and City Services"
+-
   count: 189
-- domain_category: Governance
+  domain_category: "City Administration"
+-
   count: 185
-- domain_category: Financial
+  domain_category: Governance
+-
   count: 183
-- domain_category: Finance & Administration
+  domain_category: Financial
+-
   count: 180
-- domain_category: World Class Education
+  domain_category: "Finance & Administration"
+-
   count: 177
-- domain_category: A Prosperous City
+  domain_category: "World Class Education"
+-
   count: 175
-- domain_category: Organismos de Control
+  domain_category: "A Prosperous City"
+-
   count: 174
-- domain_category: Land Base
+  domain_category: "Organismos de Control"
+-
   count: 174
-- domain_category: City Infrastructure
+  domain_category: "Land Base"
+-
   count: 168
-- domain_category: Fiscal Sustainability Strategic Investment
+  domain_category: "City Infrastructure"
+-
   count: 168
-- domain_category: Budget and Finance
+  domain_category: "Fiscal Sustainability Strategic Investment"
+-
   count: 168
-- domain_category: Minas y Energía
+  domain_category: "Budget and Finance"
+-
   count: 163
-- domain_category: Urban Planning
+  domain_category: "Minas y Energía"
+-
   count: 160
-- domain_category: Purchasing
+  domain_category: "Urban Planning"
+-
   count: 157
-- domain_category: A Livable and Sustainable City
+  domain_category: Purchasing
+-
   count: 156
-- domain_category: Justicia y Derecho
+  domain_category: "A Livable and Sustainable City"
+-
   count: 156
-- domain_category: Volunteering and Civic Engagement
+  domain_category: "Justicia y Derecho"
+-
   count: 156
-- domain_category: Industry Information
+  domain_category: "Volunteering and Civic Engagement"
+-
   count: 155
-- domain_category: Society
+  domain_category: "Industry Information"
+-
   count: 152
-- domain_category: Dashboard
+  domain_category: Society
+-
   count: 145
-- domain_category: Other
+  domain_category: Dashboard
+-
   count: 143
-- domain_category: Natural Resources
+  domain_category: Other
+-
   count: 139
-- domain_category: Employment Projections
+  domain_category: "Natural Resources"
+-
   count: 139
-- domain_category: Economic Self-Sufficiency
+  domain_category: "Employment Projections"
+-
   count: 137
-- domain_category: Housing
+  domain_category: "Economic Self-Sufficiency"
+-
   count: 137
-- domain_category: Statistics
+  domain_category: Housing
+-
   count: 136
-- domain_category: Locations and Maps
+  domain_category: Statistics
+-
   count: 134
-- domain_category: Mapas Nacionales
+  domain_category: "Locations and Maps"
+-
   count: 132
-- domain_category: County Government
+  domain_category: "Mapas Nacionales"
+-
   count: 131
-- domain_category: Environment and Energy
+  domain_category: "County Government"
+-
   count: 128
-- domain_category: Non-Communicable (Chronic) Disease
+  domain_category: "Environment and Energy"
+-
   count: 127
-- domain_category: Community & Economic Development
+  domain_category: "Non-Communicable (Chronic) Disease"
+-
   count: 126
-- domain_category: Parks and Recreation
+  domain_category: "Community & Economic Development"
+-
   count: 125
-- domain_category: State Payments
+  domain_category: "Parks and Recreation"
+-
   count: 125
-- domain_category: Geographic
+  domain_category: "State Payments"
+-
   count: 124
-- domain_category: Operations
+  domain_category: Geographic
+-
   count: 122
-- domain_category: Infrastructure
+  domain_category: Operations
+-
   count: 122
-- domain_category: Sustainability
+  domain_category: Infrastructure
+-
   count: 121
-- domain_category: Housing and Development
+  domain_category: Sustainability
+-
   count: 118
-- domain_category: Regulated Industries
+  domain_category: "Housing and Development"
+-
   count: 117
-- domain_category: Construction
+  domain_category: "Regulated Industries"
+-
   count: 115
-- domain_category: A Well Run City
+  domain_category: Construction
+-
   count: 114
-- domain_category: State Finances
+  domain_category: "A Well Run City"
+-
   count: 110
-- domain_category: Projects
+  domain_category: "State Finances"
+-
   count: 109
-- domain_category: Council Services
+  domain_category: Projects
+-
   count: 108
-- domain_category: Community Model
+  domain_category: "Council Services"
+-
   count: 107
-- domain_category: Housing and Buildings
+  domain_category: "Community Model"
+-
   count: 106
-- domain_category: Public Health
+  domain_category: "Housing and Buildings"
+-
   count: 106
-- domain_category: Elections
+  domain_category: "Public Health"
+-
   count: 106
-- domain_category: Geography & Boundaries
+  domain_category: Elections
+-
   count: 105
-- domain_category: Participación ciudadana
+  domain_category: "Geography & Boundaries"
+-
   count: 104
-- domain_category: Population
+  domain_category: "Participación ciudadana"
+-
   count: 104
-- domain_category: Motor Vehicle
+  domain_category: Population
+-
   count: 102
-- domain_category: County
+  domain_category: "Motor Vehicle"
+-
   count: 99
-- domain_category: Geographic Locations and Boundaries
+  domain_category: County
+-
   count: 98
-- domain_category: Audits and Memos
+  domain_category: "Geographic Locations and Boundaries"
+-
   count: 96
-- domain_category: Active Specifications
+  domain_category: "Audits and Memos"
+-
   count: 95
-- domain_category: Licenses/Permits
+  domain_category: "Active Specifications"
+-
   count: 94
-- domain_category: Better Future
+  domain_category: Licenses/Permits
+-
   count: 92
-- domain_category: Community Services
+  domain_category: "Better Future"
+-
   count: 92
-- domain_category: Community/Recreation
+  domain_category: "Community Services"
+-
   count: 91
-- domain_category: Finance and Administration
+  domain_category: Community/Recreation
+-
   count: 91
-- domain_category: Diseases and Conditions
+  domain_category: "Finance and Administration"
+-
   count: 91
-- domain_category: Legislation
+  domain_category: "Diseases and Conditions"
+-
   count: 90
-- domain_category: Development
+  domain_category: Legislation
+-
   count: 90
-- domain_category: Property
+  domain_category: Development
+-
   count: 89
-- domain_category: Facilities and Services
+  domain_category: Property
+-
   count: 88
-- domain_category: Government and Finance
+  domain_category: "Facilities and Services"
+-
   count: 87
-- domain_category: Human Relations
+  domain_category: "Government and Finance"
+-
   count: 87
-- domain_category: Recreation and Culture
+  domain_category: "Human Relations"
+-
   count: 86
-- domain_category: Parks & Recreation
+  domain_category: "Recreation and Culture"
+-
   count: 86
-- domain_category: NNDSS
+  domain_category: "Parks & Recreation"
+-
   count: 85
-- domain_category: Good Government
+  domain_category: NNDSS
+-
   count: 85
-- domain_category: Public Services
+  domain_category: "Good Government"
+-
   count: 85
-- domain_category: Environmental Services
+  domain_category: "Public Services"
+-
   count: 85
-- domain_category: Transportation/Transit
+  domain_category: "Environmental Services"
+-
   count: 83
-- domain_category: Forms and Applications
+  domain_category: Transportation/Transit
+-
   count: 82
-- domain_category: Utilities
+  domain_category: "Forms and Applications"
+-
   count: 82
-- domain_category: Planning
+  domain_category: Utilities
+-
   count: 81
-- domain_category: High Performing Government
+  domain_category: Planning
+-
   count: 81
-- domain_category: Fire
+  domain_category: "High Performing Government"
+-
   count: 80
-- domain_category: Maps Charts Graphs and Reports
+  domain_category: Fire
+-
   count: 80
-- domain_category: Labor Force and Unemployment Rates
+  domain_category: "Maps Charts Graphs and Reports"
+-
   count: 80
-- domain_category: Neighborhood Livability
+  domain_category: "Labor Force and Unemployment Rates"
+-
   count: 79
-- domain_category: Geospatial
+  domain_category: "Neighborhood Livability"
+-
   count: 78
-- domain_category: Health and Wellness
+  domain_category: Geospatial
+-
   count: 77
-- domain_category: Information Bulletins
+  domain_category: "Health and Wellness"
+-
   count: 77
-- domain_category: Financial Health Dashboard
+  domain_category: "Information Bulletins"
+-
   count: 77
-- domain_category: Quality of Life
+  domain_category: "Financial Health Dashboard"
+-
   count: 75
-- domain_category: City Business
+  domain_category: "Quality of Life"
+-
   count: 74
-- domain_category: Growing Economy
+  domain_category: "City Business"
+-
   count: 74
-- domain_category: Biota
+  domain_category: "Growing Economy"
+-
   count: 74
-- domain_category: Retirement
+  domain_category: Biota
+-
   count: 73
-- domain_category: Schools
+  domain_category: Retirement
+-
   count: 73
-- domain_category: Transport
+  domain_category: Schools
+-
   count: 73
-- domain_category: Jobs
+  domain_category: Transport
+-
   count: 73
-- domain_category: Agriculture
+  domain_category: Jobs
+-
   count: 73
-- domain_category: Public Works
+  domain_category: Agriculture
+-
   count: 73
-- domain_category: Hospital Compare
+  domain_category: "Public Works"
+-
   count: 72
-- domain_category: Payroll
+  domain_category: "Hospital Compare"
+-
   count: 72
-- domain_category: Environment & Sustainable Development
+  domain_category: Payroll
+-
   count: 71
-- domain_category: Permit and Licensing
+  domain_category: "Environment & Sustainable Development"
+-
   count: 70
-- domain_category: K-12
+  domain_category: "Permit and Licensing"
+-
   count: 70
-- domain_category: Demographic Profiles
+  domain_category: K-12
+-
   count: 70
-- domain_category: Imagery
+  domain_category: "Demographic Profiles"
+-
   count: 70
-- domain_category: Election operations
+  domain_category: Imagery
+-
   count: 69
-- domain_category: Money and Finance
+  domain_category: "Election operations"
+-
   count: 69
-- domain_category: Documentos
+  domain_category: "Money and Finance"
+-
   count: 69
-- domain_category: Labor
+  domain_category: Documentos
+-
   count: 68
-- domain_category: Building and Development
+  domain_category: Labor
+-
   count: 68
-- domain_category: Economics
+  domain_category: "Building and Development"
+-
   count: 68
-- domain_category: CountyStat_Core
+  domain_category: Economics
+-
   count: 66
-- domain_category: Shareholder Equity
+  domain_category: CountyStat_Core
+-
   count: 65
-- domain_category: Healthy and Safe Community
+  domain_category: "Shareholder Equity"
+-
   count: 63
-- domain_category: FY 2009-2010
+  domain_category: "Healthy and Safe Community"
+-
   count: 62
-- domain_category: Formal Education
+  domain_category: "FY 2009-2010"
+-
   count: 62
-- domain_category: Safer Streets
+  domain_category: "Formal Education"
+-
   count: 61
-- domain_category: Boundaries
+  domain_category: "Safer Streets"
+-
   count: 61
-- domain_category: Justice, Safety and Emergency
+  domain_category: Boundaries
+-
   count: 60
-- domain_category: Michigan Economic Development Corporation
+  domain_category: "Justice, Safety and Emergency"
+-
   count: 60
-- domain_category: Equity
+  domain_category: "Michigan Economic Development Corporation"
+-
   count: 60
-- domain_category: State Library Administrative Agencies Survey
+  domain_category: Equity
+-
   count: 60
-- domain_category: Grants and Grantees
+  domain_category: "State Library Administrative Agencies Survey"
+-
   count: 60
-- domain_category: Deporte y Recreación
+  domain_category: "Grants and Grantees"
+-
   count: 59
-- domain_category: Map Data
+  domain_category: "Deporte y Recreación"
+-
   count: 59
-- domain_category: Economic Development & Redevelopment
+  domain_category: "Map Data"
+-
   count: 58
-- domain_category: Revenue
+  domain_category: "Economic Development & Redevelopment"
+-
   count: 58
-- domain_category: A Safe City
+  domain_category: Revenue
+-
   count: 58
-- domain_category: Government Administration
+  domain_category: "A Safe City"
+-
   count: 58
-- domain_category: OPEN DATA SHARING PLATFORM
+  domain_category: "Government Administration"
+-
   count: 57
-- domain_category: Gobierno
+  domain_category: "OPEN DATA SHARING PLATFORM"
+-
   count: 56
-- domain_category: Government and Transparency
+  domain_category: Gobierno
+-
   count: 54
-- domain_category: Geospatial Data
+  domain_category: "Government and Transparency"
+-
   count: 54
-- domain_category: Population and Demographics
+  domain_category: "Geospatial Data"
+-
   count: 54
-- domain_category: Buildings
+  domain_category: "Population and Demographics"
+-
   count: 52
-- domain_category: Permits and Licensing
+  domain_category: Buildings
+-
   count: 52
-- domain_category: Transparency
+  domain_category: "Permits and Licensing"
+-
   count: 51
-- domain_category: Culture and Recreation
+  domain_category: Transparency
+-
   count: 51
-- domain_category: Communities & People
+  domain_category: "Culture and Recreation"
+-
   count: 51
-- domain_category: NYC BigApps
+  domain_category: "Communities & People"
+-
   count: 51
-- domain_category: Finance/Tax/Property
+  domain_category: "NYC BigApps"
+-
   count: 51
-- domain_category: Permits
+  domain_category: Finance/Tax/Property
+-
   count: 51
-- domain_category: City Administration and Finance
+  domain_category: Permits
+-
   count: 51
-- domain_category: Location
+  domain_category: "City Administration and Finance"
+-
   count: 50
-- domain_category: Employment
+  domain_category: Location
+-
   count: 50
-- domain_category: FY 2011-2012
+  domain_category: Employment
+-
   count: 50
-- domain_category: Thriving Healthy Neighborhoods
+  domain_category: "FY 2011-2012"
+-
   count: 50
-- domain_category: Externally Sourced Datasets
+  domain_category: "Thriving Healthy Neighborhoods"
+-
   count: 49
-- domain_category: Courts
+  domain_category: "Externally Sourced Datasets"
+-
   count: 48
-- domain_category: Development Review
+  domain_category: Courts
+-
   count: 48
-- domain_category: Lehman Community Involvement
+  domain_category: "Development Review"
+-
   count: 47
-- domain_category: Financial Reporting
+  domain_category: "Lehman Community Involvement"
+-
   count: 47
-- domain_category: Elected Officials
+  domain_category: "Financial Reporting"
+-
   count: 47
-- domain_category: General Government
+  domain_category: "Elected Officials"
+-
   count: 46
-- domain_category: FY 2010-2011
+  domain_category: "General Government"
+-
   count: 45
-- domain_category: Demographic
+  domain_category: "FY 2010-2011"
+-
   count: 45
-- domain_category: Health and Community Services
+  domain_category: Demographic
+-
   count: 44
-- domain_category: FY 2013-2014
+  domain_category: "Health and Community Services"
+-
   count: 44
-- domain_category: Lands, Forests and Wildlife
+  domain_category: "FY 2013-2014"
+-
   count: 43
-- domain_category: Special Programs/Initiatives - Speed Adoption of Best Practices
+  domain_category: "Lands, Forests and Wildlife"
+-
   count: 43
-- domain_category: Education - Primary to Grade 12
+  domain_category: "Special Programs/Initiatives - Speed Adoption of Best Practices"
+-
   count: 43
-- domain_category: Consumer
+  domain_category: "Education - Primary to Grade 12"
+-
   count: 43
-- domain_category: Procurements and Contracts
+  domain_category: Consumer
+-
   count: 42
-- domain_category: Strong Economy
+  domain_category: "Procurements and Contracts"
+-
   count: 42
-- domain_category: KCI Terminal Advisory
+  domain_category: "Strong Economy"
+-
   count: 42
-- domain_category: Information Technology (includes maps & geospatial data)
+  domain_category: "KCI Terminal Advisory"
+-
   count: 42
-- domain_category: Michigan Dashboard
+  domain_category: "Information Technology (includes maps & geospatial data)"
+-
   count: 42
-- domain_category: Domain Names
+  domain_category: "Michigan Dashboard"
+-
   count: 41
-- domain_category: Building and Safety
+  domain_category: "Domain Names"
+-
   count: 41
-- domain_category: Property & Taxation
+  domain_category: "Building and Safety"
+-
   count: 41
-- domain_category: 500 Cities
+  domain_category: "Property & Taxation"
+-
   count: 41
-- domain_category: Automobiles
+  domain_category: "500 Cities"
+-
   count: 41
-- domain_category: Criminal
+  domain_category: Automobiles
+-
   count: 41
-- domain_category: Environmental Protection
+  domain_category: Criminal
+-
   count: 41
-- domain_category: Community Risk Reduction
+  domain_category: "Environmental Protection"
+-
   count: 40
-- domain_category: Enrollment
+  domain_category: "Community Risk Reduction"
+-
   count: 40
-- domain_category: Outdoor Recreation
+  domain_category: Enrollment
+-
   count: 40
-- domain_category: Hydrology
+  domain_category: "Outdoor Recreation"
+-
   count: 39
-- domain_category: Culture & Arts
+  domain_category: Hydrology
+-
   count: 39
-- domain_category: HEALTH
+  domain_category: "Culture & Arts"
+-
   count: 39
-- domain_category: DataJam
+  domain_category: HEALTH
+-
   count: 39
-- domain_category: Pets
+  domain_category: DataJam
+-
   count: 38
-- domain_category: Infrastructure and Utilities
+  domain_category: Pets
+-
   count: 38
-- domain_category: Wages
+  domain_category: "Infrastructure and Utilities"
+-
   count: 38
-- domain_category: Ethics
+  domain_category: Wages
+-
   count: 38
-- domain_category: Traffic Sign Changes
+  domain_category: Ethics
+-
   count: 38
-- domain_category: FOIA
+  domain_category: "Traffic Sign Changes"
+-
   count: 37
-- domain_category: Sustainable Development
+  domain_category: FOIA
+-
   count: 37
-- domain_category: FY 2015-2016
+  domain_category: "Sustainable Development"
+-
   count: 37
-- domain_category: Facilities & Geographic Boundaries
+  domain_category: "FY 2015-2016"
+-
   count: 37
-- domain_category: Behavioral Risk Factors
+  domain_category: "Facilities & Geographic Boundaries"
+-
   count: 37
-- domain_category: NCHS
+  domain_category: "Behavioral Risk Factors"
+-
   count: 37
-- domain_category: Behavioral Health
+  domain_category: NCHS
+-
   count: 37
-- domain_category: OMB
+  domain_category: "Behavioral Health"
+-
   count: 37
-- domain_category: GovStat Training
+  domain_category: OMB
+-
   count: 37
-- domain_category: Software
+  domain_category: "GovStat Training"
+-
   count: 37
-- domain_category: Well Being
+  domain_category: Software
+-
   count: 37
-- domain_category: Politics
+  domain_category: "Well Being"
+-
   count: 36
-- domain_category: Safety
+  domain_category: Politics
+-
   count: 36
-- domain_category: Community and Economic Development
+  domain_category: Safety
+-
   count: 36
-- domain_category: Area Plans
+  domain_category: "Community and Economic Development"
+-
   count: 36
-- domain_category: Labor & Employment
+  domain_category: "Area Plans"
+-
   count: 36
-- domain_category: Greater Equity
+  domain_category: "Labor & Employment"
+-
   count: 36
-- domain_category: Infrastructure & Transportation
+  domain_category: "Greater Equity"
+-
   count: 35
-- domain_category: Utility
+  domain_category: "Infrastructure & Transportation"
+-
   count: 35
-- domain_category: Presupuestos Gubernamentales
+  domain_category: Utility
+-
   count: 35
-- domain_category: Facilities and Structures
+  domain_category: "Presupuestos Gubernamentales"
+-
   count: 35
-- domain_category: Well-Managed Government
+  domain_category: "Facilities and Structures"
+-
   count: 34
-- domain_category: Public Infrastructure
+  domain_category: "Well-Managed Government"
+-
   count: 34
-- domain_category: Resultados Electorales
+  domain_category: "Public Infrastructure"
+-
   count: 34
-- domain_category: Audit Highlights
+  domain_category: "Resultados Electorales"
+-
   count: 34
-- domain_category: Nonprofit Data
+  domain_category: "Audit Highlights"
+-
   count: 34
-- domain_category: Environmental
+  domain_category: "Nonprofit Data"
+-
   count: 34
-- domain_category: Dept of Workforce Services
+  domain_category: Environmental
+-
   count: 34
-- domain_category: Assets & Infrastructure
+  domain_category: "Dept of Workforce Services"
+-
   count: 33
-- domain_category: County Administration
+  domain_category: "Assets & Infrastructure"
+-
   count: 33
-- domain_category: Trabajo
+  domain_category: "County Administration"
+-
   count: 33
-- domain_category: Administration
+  domain_category: Trabajo
+-
   count: 33
-- domain_category: FY 2014-2015
+  domain_category: Administration
+-
   count: 33
-- domain_category: GIS
+  domain_category: "FY 2014-2015"
+-
   count: 32
-- domain_category: FY 2012-2013
+  domain_category: GIS
+-
   count: 32
-- domain_category: Human Potential
+  domain_category: "FY 2012-2013"
+-
   count: 32
-- domain_category: Injury
+  domain_category: "Human Potential"
+-
   count: 32
-- domain_category: GIS Data
+  domain_category: Injury
+-
   count: 32
-- domain_category: Property Data
+  domain_category: "GIS Data"
+-
   count: 32
-- domain_category: People and Society
+  domain_category: "Property Data"
+-
   count: 32
-- domain_category: Employees
+  domain_category: "People and Society"
+-
   count: 31
-- domain_category: Transport & Movement
+  domain_category: Employees
+-
   count: 31
-- domain_category: Transportation and Mobility
+  domain_category: "Transport & Movement"
+-
   count: 31
-- domain_category: Medicare - Enrollment
+  domain_category: "Transportation and Mobility"
+-
   count: 31
-- domain_category: Historic Preservation
+  domain_category: "Medicare - Enrollment"
+-
   count: 31
-- domain_category: Economy and Community
+  domain_category: "Historic Preservation"
+-
   count: 30
-- domain_category: Housing, Land Use, and Blight
+  domain_category: "Economy and Community"
+-
   count: 30
-- domain_category: Parking
+  domain_category: "Housing, Land Use, and Blight"
+-
   count: 30
-- domain_category: Arts and Culture
+  domain_category: Parking
+-
   count: 30
-- domain_category: Transportation and Infrastructure
+  domain_category: "Arts and Culture"
+-
   count: 30
-- domain_category: Estudios de Caso
+  domain_category: "Transportation and Infrastructure"
+-
   count: 30
-- domain_category: Land Use
+  domain_category: "Estudios de Caso"
+-
   count: 30
-- domain_category: Survey Data
+  domain_category: "Land Use"
+-
   count: 30
-- domain_category: Railroads
+  domain_category: "Survey Data"
+-
   count: 29
-- domain_category: Housing/Building Safety
+  domain_category: Railroads
+-
   count: 29
-- domain_category: Health & Wellness
+  domain_category: "Housing/Building Safety"
+-
   count: 29
-- domain_category: Medicare - Claims
+  domain_category: "Health & Wellness"
+-
   count: 29
-- domain_category: Reference
+  domain_category: "Medicare - Claims"
+-
   count: 28
-- domain_category: Medicare
+  domain_category: Reference
+-
   count: 28
-- domain_category: TRANSPARENCY
+  domain_category: Medicare
+-
   count: 28
-- domain_category: Property & Planning
+  domain_category: TRANSPARENCY
+-
   count: 28
-- domain_category: Special Programs/Initiatives - Medicare Shared Savings Program
+  domain_category: "Property & Planning"
+-
   count: 27
-- domain_category: TRANSPORTATION
+  domain_category: "Special Programs/Initiatives - Medicare Shared Savings Program"
+-
   count: 27
-- domain_category: Public Safety and Preparedness
+  domain_category: TRANSPORTATION
+-
   count: 27
-- domain_category: Regulatory
+  domain_category: "Public Safety and Preparedness"
+-
   count: 27
-- domain_category: Donaciones
+  domain_category: Regulatory
+-
   count: 27
-- domain_category: Teachers
+  domain_category: Donaciones
+-
   count: 27
-- domain_category: Budget and Management Services
+  domain_category: Teachers
+-
   count: 27
-- domain_category: Recreation & Culture
+  domain_category: "Budget and Management Services"
+-
   count: 27
-- domain_category: Property & Parcels
+  domain_category: "Recreation & Culture"
+-
   count: 27
-- domain_category: Policy
+  domain_category: "Property & Parcels"
+-
   count: 27
-- domain_category: News and Events
+  domain_category: Policy
+-
   count: 26
-- domain_category: Ticketing
+  domain_category: "News and Events"
+-
   count: 26
-- domain_category: Streetcar
+  domain_category: Ticketing
+-
   count: 26
-- domain_category: Talent Dashboard
+  domain_category: Streetcar
+-
   count: 26
-- domain_category: Environmental Management Commission
+  domain_category: "Talent Dashboard"
+-
   count: 26
-- domain_category: Events
+  domain_category: "Environmental Management Commission"
+-
   count: 26
-- domain_category: Educational Success
+  domain_category: Events
+-
   count: 26
-- domain_category: Employment and Labour
+  domain_category: "Educational Success"
+-
   count: 26
-- domain_category: Property/Planning
+  domain_category: "Employment and Labour"
+-
   count: 25
-- domain_category: City Financial Data
+  domain_category: Property/Planning
+-
   count: 25
-- domain_category: Jail
+  domain_category: "City Financial Data"
+-
   count: 25
-- domain_category: Civic Engagement
+  domain_category: Jail
+-
   count: 25
-- domain_category: Budget&Finance
+  domain_category: "Civic Engagement"
+-
   count: 25
-- domain_category: Finance Reports
+  domain_category: Budget&Finance
+-
   count: 25
-- domain_category: Shape Files
+  domain_category: "Finance Reports"
+-
   count: 25
-- domain_category: Expenditures
+  domain_category: "Shape Files"
+-
   count: 25
-- domain_category: Public Safety Dashboard
+  domain_category: Expenditures
+-
   count: 25
-- domain_category: Higher Education
+  domain_category: "Public Safety Dashboard"
+-
   count: 25
-- domain_category: Prosperous Community
+  domain_category: "Higher Education"
+-
   count: 25
-- domain_category: Infrastructure and Transportation
+  domain_category: "Prosperous Community"
+-
   count: 25
-- domain_category: JRR
+  domain_category: "Infrastructure and Transportation"
+-
   count: 25
-- domain_category: Internal Government Services
+  domain_category: JRR
+-
   count: 25
-- domain_category: Land, Planning and Housing
+  domain_category: "Internal Government Services"
+-
   count: 24
-- domain_category: Human Capital Management
+  domain_category: "Land, Planning and Housing"
+-
   count: 24
-- domain_category: Crime Data
+  domain_category: "Human Capital Management"
+-
   count: 24
-- domain_category: Water Department
+  domain_category: "Crime Data"
+-
   count: 24
-- domain_category: Medicare - Inpatient
+  domain_category: "Water Department"
+-
   count: 24
-- domain_category: Energy
+  domain_category: "Medicare - Inpatient"
+-
   count: 24
-- domain_category: Annual Audit Plan & Reports
+  domain_category: Energy
+-
   count: 24
-- domain_category: Business and Industry
+  domain_category: "Annual Audit Plan & Reports"
+-
   count: 24
-- domain_category: Food
+  domain_category: "Business and Industry"
+-
   count: 24
-- domain_category: Local Government
+  domain_category: Food
+-
   count: 24
-- domain_category: Municipalities
+  domain_category: "Local Government"
+-
   count: 23
-- domain_category: ENVIRONMENT
+  domain_category: Municipalities
+-
   count: 23
-- domain_category: Regulatory Codes
+  domain_category: ENVIRONMENT
+-
   count: 23
-- domain_category: Orlando Police
+  domain_category: "Regulatory Codes"
+-
   count: 23
-- domain_category: Health and Environment
+  domain_category: "Orlando Police"
+-
   count: 23
-- domain_category: Immigration and Migration
+  domain_category: "Health and Environment"
+-
   count: 23
-- domain_category: Seguridad
+  domain_category: "Immigration and Migration"
+-
   count: 23
-- domain_category: Fun
+  domain_category: Seguridad
+-
   count: 23
-- domain_category: Planning & Development
+  domain_category: Fun
+-
   count: 23
-- domain_category: Arts, Culture and History
+  domain_category: "Planning & Development"
+-
   count: 23
-- domain_category: Parcel
+  domain_category: "Arts, Culture and History"
+-
   count: 23
-- domain_category: Geographic Information (GIS)
+  domain_category: Parcel
+-
   count: 23
-- domain_category: California Corporation Tax
+  domain_category: "Geographic Information (GIS)"
+-
   count: 23
-- domain_category: HOUSING
+  domain_category: "California Corporation Tax"
+-
   count: 22
-- domain_category: Finance & Operations
+  domain_category: HOUSING
+-
   count: 22
-- domain_category: Crime and Justice
+  domain_category: "Finance & Operations"
+-
   count: 22
-- domain_category: NEIGHBORHOODS
+  domain_category: "Crime and Justice"
+-
   count: 22
-- domain_category: Telecommunications
+  domain_category: NEIGHBORHOODS
+-
   count: 22
-- domain_category: Emergency Services
+  domain_category: Telecommunications
+-
   count: 22
-- domain_category: Safe City
+  domain_category: "Emergency Services"
+-
   count: 22
-- domain_category: Social Justice
+  domain_category: "Safe City"
+-
   count: 22
-- domain_category: Energy & Environment Dashboard
+  domain_category: "Social Justice"
+-
   count: 22
-- domain_category: Heritage and Arts
+  domain_category: "Energy & Environment Dashboard"
+-
   count: 22
-- domain_category: Student Performance
+  domain_category: "Heritage and Arts"
+-
   count: 22
-- domain_category: Housing / Development
+  domain_category: "Student Performance"
+-
   count: 21
-- domain_category: Sanitation
+  domain_category: "Housing / Development"
+-
   count: 21
-- domain_category: Consumer/Housing
+  domain_category: Sanitation
+-
   count: 21
-- domain_category: Incidents
+  domain_category: Consumer/Housing
+-
   count: 21
-- domain_category: Maternal & Child Health
+  domain_category: Incidents
+-
   count: 21
-- domain_category: Infrastructure Dashboard
+  domain_category: "Maternal & Child Health"
+-
   count: 21
-- domain_category: Education Dashboard
+  domain_category: "Infrastructure Dashboard"
+-
   count: 21
-- domain_category: Transit Operations
+  domain_category: "Education Dashboard"
+-
   count: 20
-- domain_category: Dialysis Facility Compare
+  domain_category: "Transit Operations"
+-
   count: 20
-- domain_category: Physical & Mental Health
+  domain_category: "Dialysis Facility Compare"
+-
   count: 20
-- domain_category: Workforce
+  domain_category: "Physical & Mental Health"
+-
   count: 20
-- domain_category: Funding
+  domain_category: Workforce
+-
   count: 20
-- domain_category: Transit
+  domain_category: Funding
+-
   count: 20
-- domain_category: Gender
+  domain_category: Transit
+-
   count: 20
-- domain_category: Medicare - Clinical Laboratory Improvement Amendments (CLIA/lab)
+  domain_category: Gender
+-
   count: 20
-- domain_category: Locks
+  domain_category: "Medicare - Clinical Laboratory Improvement Amendments (CLIA/lab)"
+-
   count: 20
-- domain_category: Gas Tax
+  domain_category: Locks
+-
   count: 20
-- domain_category: Enrollment
+  domain_category: "Gas Tax"
+-
   count: 20
-- domain_category: Neighborhood Census Data
+  domain_category: Enrollment
+-
   count: 19
-- domain_category: Executive Budget
+  domain_category: "Neighborhood Census Data"
+-
   count: 19
-- domain_category: Chronic Disease Indicators
+  domain_category: "Executive Budget"
+-
   count: 19
-- domain_category: Licenses & Permits
+  domain_category: "Chronic Disease Indicators"
+-
   count: 19
-- domain_category: Nursing Home Compare
+  domain_category: "Licenses & Permits"
+-
   count: 19
-- domain_category: Early childhood
+  domain_category: "Nursing Home Compare"
+-
   count: 19
-- domain_category: Assessments & Property Tax
+  domain_category: "Early childhood"
+-
   count: 19
-- domain_category: Public Libraries Survey
+  domain_category: "Assessments & Property Tax"
+-
   count: 19
-- domain_category: Vibrant Economy
+  domain_category: "Public Libraries Survey"
+-
   count: 19
-- domain_category: Services and Amenities
+  domain_category: "Vibrant Economy"
+-
   count: 19
-- domain_category: Transportation Facilities
+  domain_category: "Services and Amenities"
+-
   count: 18
-- domain_category: Finance & Taxes
+  domain_category: "Transportation Facilities"
+-
   count: 18
-- domain_category: Data Storytelling
+  domain_category: "Finance & Taxes"
+-
   count: 18
-- domain_category: Community Partnerships and Engagement
+  domain_category: "Data Storytelling"
+-
   count: 18
-- domain_category: GIS data
+  domain_category: "Community Partnerships and Engagement"
+-
   count: 18
-- domain_category: Geoscientific
+  domain_category: "GIS data"
+-
   count: 18
-- domain_category: Global Rankings
+  domain_category: Geoscientific
+-
   count: 18
-- domain_category: Prosperity
+  domain_category: "Global Rankings"
+-
   count: 18
-- domain_category: Indicators
+  domain_category: Prosperity
+-
   count: 18
-- domain_category: Budget/Finance
+  domain_category: Indicators
+-
   count: 18
-- domain_category: Marketplace - Qualified Health Plan (QHP)
+  domain_category: Budget/Finance
+-
   count: 18
-- domain_category: Community Centres
+  domain_category: "Marketplace - Qualified Health Plan (QHP)"
+-
   count: 18
-- domain_category: Heart Disease & Stroke Prevention
+  domain_category: "Community Centres"
+-
   count: 18
-- domain_category: Land and Parcel Information
+  domain_category: "Heart Disease & Stroke Prevention"
+-
   count: 17
-- domain_category: Desarrollo e Infraestructura
+  domain_category: "Land and Parcel Information"
+-
   count: 17
-- domain_category: California Personal Income Tax
+  domain_category: "Desarrollo e Infraestructura"
+-
   count: 17
-- domain_category: Innovative Government
+  domain_category: "California Personal Income Tax"
+-
   count: 17
-- domain_category: Medicare - Skilled Nursing Facility (SNF)
+  domain_category: "Innovative Government"
+-
   count: 17
-- domain_category: Quality
+  domain_category: "Medicare - Skilled Nursing Facility (SNF)"
+-
   count: 17
-- domain_category: Service Requests
+  domain_category: Quality
+-
   count: 17
-- domain_category: Candidatura
+  domain_category: "Service Requests"
+-
   count: 17
-- domain_category: Medicare - Outpatient
+  domain_category: Candidatura
+-
   count: 17
-- domain_category: Environment and Natural Resources
+  domain_category: "Medicare - Outpatient"
+-
   count: 17
-- domain_category: Inspections
+  domain_category: "Environment and Natural Resources"
+-
   count: 17
-- domain_category: Permisos y Ambiente
+  domain_category: Inspections
+-
   count: 17
-- domain_category: Public Facilities & Services
+  domain_category: "Permisos y Ambiente"
+-
   count: 17
-- domain_category: Planning and Cadastre
+  domain_category: "Public Facilities & Services"
+-
   count: 17
-- domain_category: Organizational Support Services
+  domain_category: "Planning and Cadastre"
+-
   count: 17
-- domain_category: Homeless
+  domain_category: "Organizational Support Services"
+-
   count: 16
-- domain_category: Community Development
+  domain_category: Homeless
+-
   count: 16
-- domain_category: Economic Health
+  domain_category: "Community Development"
+-
   count: 16
-- domain_category: Children and Family
+  domain_category: "Economic Health"
+-
   count: 16
-- domain_category: Asset Ownership
+  domain_category: "Children and Family"
+-
   count: 16
-- domain_category: Economic Growth
+  domain_category: "Asset Ownership"
+-
   count: 16
-- domain_category: Medicare - Physician/Supplier
+  domain_category: "Economic Growth"
+-
   count: 16
-- domain_category: Parks
+  domain_category: "Medicare - Physician/Supplier"
+-
   count: 16
-- domain_category: Accountability
+  domain_category: Parks
+-
   count: 16
-- domain_category: Statistics Bulletins
+  domain_category: Accountability
+-
   count: 16
-- domain_category: Oral Health
+  domain_category: "Statistics Bulletins"
+-
   count: 16
-- domain_category: Responsible Government
+  domain_category: "Oral Health"
+-
   count: 16
-- domain_category: FIR Data
+  domain_category: "Responsible Government"
+-
   count: 16
-- domain_category: Indoor Recreation
+  domain_category: "FIR Data"
+-
   count: 16
-- domain_category: Students
+  domain_category: "Indoor Recreation"
+-
   count: 16
-- domain_category: Risk and Insurance
+  domain_category: Students
+-
   count: 15
-- domain_category: Operational Excellence
+  domain_category: "Risk and Insurance"
+-
   count: 15
-- domain_category: Borrowing and Credit
+  domain_category: "Operational Excellence"
+-
   count: 15
-- domain_category: Opportunity
+  domain_category: "Borrowing and Credit"
+-
   count: 15
-- domain_category: LAND USE
+  domain_category: Opportunity
+-
   count: 15
-- domain_category: Agriculture and Agri-business
+  domain_category: "LAND USE"
+-
   count: 15
-- domain_category: Banking and Payments
+  domain_category: "Agriculture and Agri-business"
+-
   count: 15
-- domain_category: Infrastructure, Technology and Media
+  domain_category: "Banking and Payments"
+-
   count: 15
-- domain_category: EDUCATION
+  domain_category: "Infrastructure, Technology and Media"
+-
   count: 15
-- domain_category: Roads, Driving and Transport
+  domain_category: EDUCATION
+-
   count: 15
-- domain_category: Health and Social Services
+  domain_category: "Roads, Driving and Transport"
+-
   count: 15
-- domain_category: Assessment, Taxation, & Corporate
+  domain_category: "Health and Social Services"
+-
   count: 15
-- domain_category: Building, Bylaw and Licensing
+  domain_category: "Assessment, Taxation, & Corporate"
+-
   count: 15
-- domain_category: Tax Data
+  domain_category: "Building, Bylaw and Licensing"
+-
   count: 15
-- domain_category: Finance Application Images
+  domain_category: "Tax Data"
+-
   count: 15
-- domain_category: Fishing and Aquaculture
+  domain_category: "Finance Application Images"
+-
   count: 15
-- domain_category: Finance Application
+  domain_category: "Fishing and Aquaculture"
+-
   count: 15
-- domain_category: Business and Economic Activity
+  domain_category: "Finance Application"
+-
   count: 15
-- domain_category: City Planning
+  domain_category: "Business and Economic Activity"
+-
   count: 15
-- domain_category: Income Profiles
+  domain_category: "City Planning"
+-
   count: 15
-- domain_category: Sampling and Methodology
+  domain_category: "Income Profiles"
+-
   count: 15
-- domain_category: Savings and Investments
+  domain_category: "Sampling and Methodology"
+-
   count: 15
-- domain_category: Maternal and Child Health
+  domain_category: "Savings and Investments"
+-
   count: 15
-- domain_category: Medicare - Durable Medical Equipment (DME)
+  domain_category: "Maternal and Child Health"
+-
   count: 14
-- domain_category: Geodata
+  domain_category: "Medicare - Durable Medical Equipment (DME)"
+-
   count: 14
-- domain_category: Performance
+  domain_category: Geodata
+-
   count: 14
-- domain_category: K-12 Education
+  domain_category: Performance
+-
   count: 14
-- domain_category: Geospatial Boundaries
+  domain_category: "K-12 Education"
+-
   count: 14
-- domain_category: Economy and Workforce
+  domain_category: "Geospatial Boundaries"
+-
   count: 14
-- domain_category: College, Career & Beyond-  Learning and School Achievement
+  domain_category: "Economy and Workforce"
+-
   count: 14
-- domain_category: Access to Financial Services
+  domain_category: "College, Career & Beyond-  Learning and School Achievement"
+-
   count: 14
-- domain_category: Legislative
+  domain_category: "Access to Financial Services"
+-
   count: 14
-- domain_category: Weekly Reports
+  domain_category: Legislative
+-
   count: 14
-- domain_category: Police-Community Relations
+  domain_category: "Weekly Reports"
+-
   count: 14
-- domain_category: Facilities and Planning
+  domain_category: "Police-Community Relations"
+-
   count: 14
-- domain_category: General Information
+  domain_category: "Facilities and Planning"
+-
   count: 14
-- domain_category: Assessment
+  domain_category: "General Information"
+-
   count: 14
-- domain_category: Collaborative Community
+  domain_category: Assessment
+-
   count: 14
-- domain_category: Unemployment Insurance
+  domain_category: "Collaborative Community"
+-
   count: 14
-- domain_category: Budget & Finance
+  domain_category: "Unemployment Insurance"
+-
   count: 14
-- domain_category: Health Statistics
+  domain_category: "Budget & Finance"
+-
   count: 14
-- domain_category: Assessing
+  domain_category: "Health Statistics"
+-
   count: 14
-- domain_category: Seniors Dashboard
+  domain_category: Assessing
+-
   count: 14
-- domain_category: Local Aggregation
+  domain_category: "Seniors Dashboard"
+-
   count: 13
-- domain_category: Consumer Protection
+  domain_category: "Local Aggregation"
+-
   count: 13
-- domain_category: Internet Connectivity
+  domain_category: "Consumer Protection"
+-
   count: 13
-- domain_category: Environmental Health
+  domain_category: "Internet Connectivity"
+-
   count: 13
-- domain_category: Communicable Disease
+  domain_category: "Environmental Health"
+-
   count: 13
-- domain_category: Permits & Licenses
+  domain_category: "Communicable Disease"
+-
   count: 13
-- domain_category: Users and Use
+  domain_category: "Permits & Licenses"
+-
   count: 13
-- domain_category: Housing and Homelessness
+  domain_category: "Users and Use"
+-
   count: 13
-- domain_category: Reform / Modernization of the State
+  domain_category: "Housing and Homelessness"
+-
   count: 13
-- domain_category: Safe Community
+  domain_category: "Reform / Modernization of the State"
+-
   count: 13
-- domain_category: Treasury&Tax
+  domain_category: "Safe Community"
+-
   count: 13
-- domain_category: Research and Statistics
+  domain_category: Treasury&Tax
+-
   count: 13
-- domain_category: Sport and Recreation
+  domain_category: "Research and Statistics"
+-
   count: 13
-- domain_category: Stronger Neighborhoods
+  domain_category: "Sport and Recreation"
+-
   count: 13
-- domain_category: City Finances
+  domain_category: "Stronger Neighborhoods"
+-
   count: 13
-- domain_category: Medicare - Part D
+  domain_category: "City Finances"
+-
   count: 13
-- domain_category: Housing & Buildings
+  domain_category: "Medicare - Part D"
+-
   count: 13
-- domain_category: KC Bizcare
+  domain_category: "Housing & Buildings"
+-
   count: 13
-- domain_category: Youth Risk Behaviors
+  domain_category: "KC Bizcare"
+-
   count: 13
-- domain_category: PLANNING
+  domain_category: "Youth Risk Behaviors"
+-
   count: 13
-- domain_category: Healthy Aging
+  domain_category: PLANNING
+-
   count: 13
-- domain_category: E-rate
+  domain_category: "Healthy Aging"
+-
   count: 13
-- domain_category: Government Efficiency & Citizen Engagement
+  domain_category: E-rate
+-
   count: 12
-- domain_category: Transportation 
+  domain_category: "Government Efficiency & Citizen Engagement"
+-
   count: 12
-- domain_category: Education and Workforce Development
+  domain_category: Transportation
+-
   count: 12
-- domain_category: Target Markets
+  domain_category: "Education and Workforce Development"
+-
   count: 12
-- domain_category: Raw Data
+  domain_category: "Target Markets"
+-
   count: 12
-- domain_category: Mines and Minerals
+  domain_category: "Raw Data"
+-
   count: 12
-- domain_category: Education - Early Childhood
+  domain_category: "Mines and Minerals"
+-
   count: 12
-- domain_category: Archive
+  domain_category: "Education - Early Childhood"
+-
   count: 12
-- domain_category: Growth and Closures
+  domain_category: Archive
+-
   count: 12
-- domain_category: Economy and Finance
+  domain_category: "Growth and Closures"
+-
   count: 12
-- domain_category: Tax Expenditure Reports
+  domain_category: "Economy and Finance"
+-
   count: 12
-- domain_category: Transportation Infrastructure
+  domain_category: "Tax Expenditure Reports"
+-
   count: 12
-- domain_category: Finance / Government
+  domain_category: "Transportation Infrastructure"
+-
   count: 12
-- domain_category: Schools
+  domain_category: "Finance / Government"
+-
   count: 12
-- domain_category: PUBLIC SAFETY
+  domain_category: Schools
+-
   count: 12
-- domain_category: Services
+  domain_category: "PUBLIC SAFETY"
+-
   count: 12
-- domain_category: Base Maps
+  domain_category: Services
+-
   count: 12
-- domain_category: Licenses and Certifications
+  domain_category: "Base Maps"
+-
   count: 12
-- domain_category: Financials
+  domain_category: "Licenses and Certifications"
+-
   count: 12
-- domain_category: Health and Safety
+  domain_category: Financials
+-
   count: 12
-- domain_category: Help and Information
+  domain_category: "Health and Safety"
+-
   count: 12
-- domain_category: Website content
+  domain_category: "Help and Information"
+-
   count: 12
-- domain_category: City Hall
+  domain_category: "Website content"
+-
   count: 12
-- domain_category: Livable Community
+  domain_category: "City Hall"
+-
   count: 12
-- domain_category: Wireline
+  domain_category: "Livable Community"
+-
   count: 12
-- domain_category: Technology and Innovation
+  domain_category: Wireline
+-
   count: 11
-- domain_category: Facilities
+  domain_category: "Technology and Innovation"
+-
   count: 11
-- domain_category: Liabilities and Assets
+  domain_category: Facilities
+-
   count: 11
-- domain_category: Financial Data
+  domain_category: "Liabilities and Assets"
+-
   count: 11
-- domain_category: Inspectional Services
+  domain_category: "Financial Data"
+-
   count: 11
-- domain_category: INEQUALITY
+  domain_category: "Inspectional Services"
+-
   count: 11
-- domain_category: Nutrition, Physical Activity, and Obesity
+  domain_category: INEQUALITY
+-
   count: 11
-- domain_category: Fire/Rescue
+  domain_category: "Nutrition, Physical Activity, and Obesity"
+-
   count: 11
-- domain_category: Records
+  domain_category: Fire/Rescue
+-
   count: 11
-- domain_category: Officer Involved Shootings
+  domain_category: Records
+-
   count: 11
-- domain_category: Technology
+  domain_category: "Officer Involved Shootings"
+-
   count: 11
-- domain_category: Quitline
+  domain_category: Technology
+-
   count: 11
-- domain_category: PIT Charts
+  domain_category: Quitline
+-
   count: 11
-- domain_category: Dredging
+  domain_category: "PIT Charts"
+-
   count: 11
-- domain_category: State Government
+  domain_category: Dredging
+-
   count: 11
-- domain_category: Negocios y Corporaciones
+  domain_category: "State Government"
+-
   count: 11
-- domain_category: Tax Increment Financing
+  domain_category: "Negocios y Corporaciones"
+-
   count: 11
-- domain_category: Permitting Project
+  domain_category: "Tax Increment Financing"
+-
   count: 11
-- domain_category: Attendance & Retention
+  domain_category: "Permitting Project"
+-
   count: 11
-- domain_category: CIVIC ENGAGEMENT
+  domain_category: "Attendance & Retention"
+-
   count: 10
-- domain_category: Michigan State Housing Development Authority
+  domain_category: "CIVIC ENGAGEMENT"
+-
   count: 10
-- domain_category: Community Safety and Well-Being
+  domain_category: "Michigan State Housing Development Authority"
+-
   count: 10
-- domain_category: Licenses and Permits
+  domain_category: "Community Safety and Well-Being"
+-
   count: 10
-- domain_category: Kindergarten- Learning and School Achievement
+  domain_category: "Licenses and Permits"
+-
   count: 10
-- domain_category: All People Trust Government is Effective, Efficient and Fiscally
-    Sound
+  domain_category: "Kindergarten- Learning and School Achievement"
+-
   count: 10
-- domain_category: Aviation
+  domain_category: "All People Trust Government is Effective, Efficient and Fiscally Sound"
+-
   count: 10
-- domain_category: Tobacco Use
+  domain_category: Aviation
+-
   count: 10
-- domain_category: Training
+  domain_category: "Tobacco Use"
+-
   count: 10
-- domain_category: Vision & Eye Health
+  domain_category: Training
+-
   count: 10
-- domain_category: City Revenues
+  domain_category: "Vision & Eye Health"
+-
   count: 10
-- domain_category: Health-Related Quality of Life
+  domain_category: "City Revenues"
+-
   count: 10
-- domain_category: Cessation Coverage
+  domain_category: "Health-Related Quality of Life"
+-
   count: 10
-- domain_category: Street Maintenance
+  domain_category: "Cessation Coverage"
+-
   count: 10
-- domain_category: Traffic, Parking, and Transportation
+  domain_category: "Street Maintenance"
+-
   count: 10
-- domain_category: People & Events
+  domain_category: "Traffic, Parking, and Transportation"
+-
   count: 10
-- domain_category: Engaged Community
+  domain_category: "People & Events"
+-
   count: 10
-- domain_category: Airport
+  domain_category: "Engaged Community"
+-
   count: 10
-- domain_category: Mental Health
+  domain_category: Airport
+-
   count: 10
-- domain_category: City Managers Office (Finance)
+  domain_category: "Mental Health"
+-
   count: 10
-- domain_category: Calls For Service
+  domain_category: "City Managers Office (Finance)"
+-
   count: 10
-- domain_category: Financial Data and Reports
+  domain_category: "Calls For Service"
+-
   count: 10
-- domain_category: Energy and the Environment
+  domain_category: "Financial Data and Reports"
+-
   count: 9
-- domain_category: Election and Government
+  domain_category: "Energy and the Environment"
+-
   count: 9
-- domain_category: Geography
+  domain_category: "Election and Government"
+-
   count: 9
-- domain_category: Reference Data
+  domain_category: Geography
+-
   count: 9
-- domain_category: Budget and Finances
+  domain_category: "Reference Data"
+-
   count: 9
-- domain_category: Production
+  domain_category: "Budget and Finances"
+-
   count: 9
-- domain_category: Resources
+  domain_category: Production
+-
   count: 9
-- domain_category: Sustainable Environment
+  domain_category: Resources
+-
   count: 9
-- domain_category: Recreation and Parks
+  domain_category: "Sustainable Environment"
+-
   count: 9
-- domain_category: Law/Judicial
+  domain_category: "Recreation and Parks"
+-
   count: 9
-- domain_category: Public Assets
+  domain_category: Law/Judicial
+-
   count: 9
-- domain_category: Social
+  domain_category: "Public Assets"
+-
   count: 9
-- domain_category: Subject & Course Enrolment
+  domain_category: Social
+-
   count: 9
-- domain_category: Planning/Development
+  domain_category: "Subject & Course Enrolment"
+-
   count: 9
-- domain_category: General
+  domain_category: Planning/Development
+-
   count: 9
-- domain_category: Healthy People 2020
+  domain_category: General
+-
   count: 9
-- domain_category: Legislative Info
+  domain_category: "Healthy People 2020"
+-
   count: 9
-- domain_category: Business License
+  domain_category: "Legislative Info"
+-
   count: 9
-- domain_category: Salud
+  domain_category: "Business License"
+-
   count: 9
-- domain_category: Financial Management
+  domain_category: Salud
+-
   count: 9
-- domain_category: City Other Data
+  domain_category: "Financial Management"
+-
   count: 9
-- domain_category: Emergency
+  domain_category: "City Other Data"
+-
   count: 9
-- domain_category: RIVCOconnect Broadband
+  domain_category: Emergency
+-
   count: 9
-- domain_category: Special Programs/Initiatives
+  domain_category: "RIVCOconnect Broadband"
+-
   count: 9
-- domain_category: Geospatial (general)
+  domain_category: "Special Programs/Initiatives"
+-
   count: 9
-- domain_category: Neighborhoods / Environment
+  domain_category: "Geospatial (general)"
+-
   count: 9
-- domain_category: Medicare - Home Health Agency (HHA)
+  domain_category: "Neighborhoods / Environment"
+-
   count: 9
-- domain_category: Public Transit
+  domain_category: "Medicare - Home Health Agency (HHA)"
+-
   count: 9
-- domain_category: Finances
+  domain_category: "Public Transit"
+-
   count: 9
-- domain_category: Home Health Compare
+  domain_category: Finances
+-
   count: 9
-- domain_category: Art
+  domain_category: "Home Health Compare"
+-
   count: 9
-- domain_category: Platform Support
+  domain_category: Art
+-
   count: 9
-- domain_category: Public Finance
+  domain_category: "Platform Support"
+-
   count: 8
-- domain_category: Performance Management Framework (PMF)
+  domain_category: "Public Finance"
+-
   count: 8
-- domain_category: Science and Technology
+  domain_category: "Performance Management Framework (PMF)"
+-
   count: 8
-- domain_category: City Services & Administration
+  domain_category: "Science and Technology"
+-
   count: 8
-- domain_category: Drug Use
+  domain_category: "City Services & Administration"
+-
   count: 8
-- domain_category: Smoking & Tobacco Use
+  domain_category: "Drug Use"
+-
   count: 8
-- domain_category: Applied Science
+  domain_category: "Smoking & Tobacco Use"
+-
   count: 8
-- domain_category: History
+  domain_category: "Applied Science"
+-
   count: 8
-- domain_category: Buildings, Housing & Economic Development
+  domain_category: History
+-
   count: 8
-- domain_category: Materials Physical Properties
+  domain_category: "Buildings, Housing & Economic Development"
+-
   count: 8
-- domain_category: Healthy Communities
+  domain_category: "Materials Physical Properties"
+-
   count: 8
-- domain_category: High School- Learning and School Achievement
+  domain_category: "Healthy Communities"
+-
   count: 8
-- domain_category: Finance and Budget
+  domain_category: "High School- Learning and School Achievement"
+-
   count: 8
-- domain_category: Business, Development & Housing
+  domain_category: "Finance and Budget"
+-
   count: 8
-- domain_category: Structure
+  domain_category: "Business, Development & Housing"
+-
   count: 8
-- domain_category: Brownfields
+  domain_category: Structure
+-
   count: 8
-- domain_category: Kindergarten- Physical Health and Development
+  domain_category: Brownfields
+-
   count: 8
-- domain_category: Transportation & Safety
+  domain_category: "Kindergarten- Physical Health and Development"
+-
   count: 8
-- domain_category: Urban Development and Housing
+  domain_category: "Transportation & Safety"
+-
   count: 8
-- domain_category: Demografía
+  domain_category: "Urban Development and Housing"
+-
   count: 8
-- domain_category: Private Firms and SME Development
+  domain_category: Demografía
+-
   count: 8
-- domain_category: Corp Charts
+  domain_category: "Private Firms and SME Development"
+-
   count: 8
-- domain_category: Drainage
+  domain_category: "Corp Charts"
+-
   count: 8
-- domain_category: Foreclosures & Vacancies
+  domain_category: Drainage
+-
   count: 8
-- domain_category: Open Data Site Management
+  domain_category: "Foreclosures & Vacancies"
+-
   count: 7
-- domain_category: Demographic and Cross Cutting Indicators- Physical Health and Development
+  domain_category: "Open Data Site Management"
+-
   count: 7
-- domain_category: Environment and Sustainability
+  domain_category: "Demographic and Cross Cutting Indicators- Physical Health and Development"
+-
   count: 7
-- domain_category: 311 Call Center
+  domain_category: "Environment and Sustainability"
+-
   count: 7
-- domain_category: Web Metrics
+  domain_category: "311 Call Center"
+-
   count: 7
-- domain_category: Special Districts Other
+  domain_category: "Web Metrics"
+-
   count: 7
-- domain_category: Culture-Recreation
+  domain_category: "Special Districts Other"
+-
   count: 7
-- domain_category: Land Features
+  domain_category: Culture-Recreation
+-
   count: 7
-- domain_category: Education K-12
+  domain_category: "Land Features"
+-
   count: 7
-- domain_category: Vocational Education & Training (VET)
+  domain_category: "Education K-12"
+-
   count: 7
-- domain_category: Assets
+  domain_category: "Vocational Education & Training (VET)"
+-
   count: 7
-- domain_category: ECONOMIC DEVELOPMENT
+  domain_category: Assets
+-
   count: 7
-- domain_category: Libraries
+  domain_category: "ECONOMIC DEVELOPMENT"
+-
   count: 7
-- domain_category: City Enterprise Activities
+  domain_category: Libraries
+-
   count: 7
-- domain_category: Administrative and Fiscal Services
+  domain_category: "City Enterprise Activities"
+-
   count: 7
-- domain_category: LAS
+  domain_category: "Administrative and Fiscal Services"
+-
   count: 7
-- domain_category: High School- Social Skills and Confidence
+  domain_category: LAS
+-
   count: 7
-- domain_category: Revenues
+  domain_category: "High School- Social Skills and Confidence"
+-
   count: 7
-- domain_category: Fleet
+  domain_category: Revenues
+-
   count: 7
-- domain_category: Business and Financial
+  domain_category: Fleet
+-
   count: 7
-- domain_category: Political and Social Issues
+  domain_category: "Business and Financial"
+-
   count: 7
-- domain_category: Strategic Plans
+  domain_category: "Political and Social Issues"
+-
   count: 6
-- domain_category: Arts, Culture and Events
+  domain_category: "Strategic Plans"
+-
   count: 6
-- domain_category: City Expenditures
+  domain_category: "Arts, Culture and Events"
+-
   count: 6
-- domain_category: Municipal
+  domain_category: "City Expenditures"
+-
   count: 6
-- domain_category: Engineering & Technology
+  domain_category: Municipal
+-
   count: 6
-- domain_category: Social Investment
+  domain_category: "Engineering & Technology"
+-
   count: 6
-- domain_category: Economic Data
+  domain_category: "Social Investment"
+-
   count: 6
-- domain_category: Education - Post-Secondary and Skills Training
+  domain_category: "Economic Data"
+-
   count: 6
-- domain_category: Abierto
+  domain_category: "Education - Post-Secondary and Skills Training"
+-
   count: 6
-- domain_category: Legal
+  domain_category: Abierto
+-
   count: 6
-- domain_category: Solid Waste
+  domain_category: Legal
+-
   count: 6
-- domain_category: Corrections
+  domain_category: "Solid Waste"
+-
   count: 6
-- domain_category: Voting
+  domain_category: Corrections
+-
   count: 6
-- domain_category: Community Initiatives
+  domain_category: Voting
+-
   count: 6
-- domain_category: Grants and Contracts
+  domain_category: "Community Initiatives"
+-
   count: 6
-- domain_category: High School- Emotional Maturity and Mental Health
+  domain_category: "Grants and Contracts"
+-
   count: 6
-- domain_category: Upcoming API Revisions
+  domain_category: "High School- Emotional Maturity and Mental Health"
+-
   count: 6
-- domain_category: Post-Secondary Education
+  domain_category: "Upcoming API Revisions"
+-
   count: 6
-- domain_category: County Board Records
+  domain_category: "Post-Secondary Education"
+-
   count: 6
-- domain_category: Kindergarten- Social Skills and Confidence
+  domain_category: "County Board Records"
+-
   count: 6
-- domain_category: Fondos Públicos
+  domain_category: "Kindergarten- Social Skills and Confidence"
+-
   count: 6
-- domain_category: MLR
+  domain_category: "Fondos Públicos"
+-
   count: 6
-- domain_category: Transportation Planning
+  domain_category: MLR
+-
   count: 6
-- domain_category: Jobs that Pay
+  domain_category: "Transportation Planning"
+-
   count: 6
-- domain_category: Elevation Model
+  domain_category: "Jobs that Pay"
+-
   count: 6
-- domain_category: Public Safety & Preparedness
+  domain_category: "Elevation Model"
+-
   count: 6
-- domain_category: Middle School- Learning and School Achievement
+  domain_category: "Public Safety & Preparedness"
+-
   count: 6
-- domain_category: Marketplace - Eligible Uninsured People for Outreach
+  domain_category: "Middle School- Learning and School Achievement"
+-
   count: 6
-- domain_category: Unique and Inclusive Neighborhoods
+  domain_category: "Marketplace - Eligible Uninsured People for Outreach"
+-
   count: 6
-- domain_category: Elementary- Learning and School Achievement
+  domain_category: "Unique and Inclusive Neighborhoods"
+-
   count: 6
-- domain_category: Alcohol-Related Disease Impact
+  domain_category: "Elementary- Learning and School Achievement"
+-
   count: 6
-- domain_category: Special Districts Enterprise Activities
+  domain_category: "Alcohol-Related Disease Impact"
+-
   count: 6
-- domain_category: Medicare - Hospice
+  domain_category: "Special Districts Enterprise Activities"
+-
   count: 6
-- domain_category: Images
+  domain_category: "Medicare - Hospice"
+-
   count: 6
-- domain_category: Data and informatics
+  domain_category: Images
+-
   count: 5
-- domain_category: Peer Review
+  domain_category: "Data and informatics"
+-
   count: 5
-- domain_category: Operation
+  domain_category: "Peer Review"
+-
   count: 5
-- domain_category: Food and Agriculture
+  domain_category: Operation
+-
   count: 5
-- domain_category: Fees
+  domain_category: "Food and Agriculture"
+-
   count: 5
-- domain_category: Healthcare Transformation
+  domain_category: Fees
+-
   count: 5
-- domain_category: Environment & Agriculture
+  domain_category: "Healthcare Transformation"
+-
   count: 5
-- domain_category: Youth
+  domain_category: "Environment & Agriculture"
+-
   count: 5
-- domain_category: Kindergarten- Emotional Maturity and Mental Health
+  domain_category: Youth
+-
   count: 5
-- domain_category: Hospice Compare
+  domain_category: "Kindergarten- Emotional Maturity and Mental Health"
+-
   count: 5
-- domain_category: Property and Taxation
+  domain_category: "Hospice Compare"
+-
   count: 5
-- domain_category: Property Maintenance
+  domain_category: "Property and Taxation"
+-
   count: 5
-- domain_category: Climatology
+  domain_category: "Property Maintenance"
+-
   count: 5
-- domain_category: Wireless
+  domain_category: Climatology
+-
   count: 5
-- domain_category: Utilities and Public Works
+  domain_category: Wireless
+-
   count: 5
-- domain_category: GovHack
+  domain_category: "Utilities and Public Works"
+-
   count: 5
-- domain_category: Contracts and Grants
+  domain_category: GovHack
+-
   count: 5
-- domain_category: Economic Opportunity
+  domain_category: "Contracts and Grants"
+-
   count: 5
-- domain_category: Retirement Systems
+  domain_category: "Economic Opportunity"
+-
   count: 5
-- domain_category: Paving
+  domain_category: "Retirement Systems"
+-
   count: 5
-- domain_category: Community and Recreation
+  domain_category: Paving
+-
   count: 5
-- domain_category: Market
+  domain_category: "Community and Recreation"
+-
   count: 5
-- domain_category: Government/General
+  domain_category: Market
+-
   count: 5
-- domain_category: Public Service
+  domain_category: Government/General
+-
   count: 5
-- domain_category: Requests for Service
+  domain_category: "Public Service"
+-
   count: 5
-- domain_category: Mapping
+  domain_category: "Requests for Service"
+-
   count: 5
-- domain_category: Active Transportation
+  domain_category: Mapping
+-
   count: 5
-- domain_category: Communities and Social Services
+  domain_category: "Active Transportation"
+-
   count: 5
-- domain_category: Health Consequences and Costs
+  domain_category: "Communities and Social Services"
+-
   count: 5
-- domain_category: Self Determination
+  domain_category: "Health Consequences and Costs"
+-
   count: 5
-- domain_category: Greenways
+  domain_category: "Self Determination"
+-
   count: 5
-- domain_category: Población
+  domain_category: Greenways
+-
   count: 5
-- domain_category: Recycling
+  domain_category: Población
+-
   count: 5
-- domain_category: Filming
+  domain_category: Recycling
+-
   count: 5
-- domain_category: Economic
+  domain_category: Filming
+-
   count: 5
-- domain_category: Transportación
+  domain_category: Economic
+-
   count: 5
-- domain_category: Middle School- Social Skills and Confidence
+  domain_category: Transportación
+-
   count: 5
-- domain_category: Partidos
+  domain_category: "Middle School- Social Skills and Confidence"
+-
   count: 5
-- domain_category: Special Districts Debt
+  domain_category: Partidos
+-
   count: 5
-- domain_category: Communications
+  domain_category: "Special Districts Debt"
+-
   count: 5
-- domain_category: IT Department
+  domain_category: Communications
+-
   count: 5
-- domain_category: Waitlists/Spaces Available
+  domain_category: "IT Department"
+-
   count: 5
-- domain_category: Interprovincial and International Affairs
+  domain_category: "Waitlists/Spaces Available"
+-
   count: 5
-- domain_category: Permits & Licensing
+  domain_category: "Interprovincial and International Affairs"
+-
   count: 5
-- domain_category: Election Data
+  domain_category: "Permits & Licensing"
+-
   count: 4
-- domain_category: KC City Energy Project
+  domain_category: "Election Data"
+-
   count: 4
-- domain_category: City Debt
+  domain_category: "KC City Energy Project"
+-
   count: 4
-- domain_category: Infrastructure and Development
+  domain_category: "City Debt"
+-
   count: 4
-- domain_category: Geneology
+  domain_category: "Infrastructure and Development"
+-
   count: 4
-- domain_category: Licensing
+  domain_category: Geneology
+-
   count: 4
-- domain_category: Demographic and Cross Cutting Indicators- Learning and School Achievement
+  domain_category: Licensing
+-
   count: 4
-- domain_category: Inpatient Rehabilitation Facility Compare
+  domain_category: "Demographic and Cross Cutting Indicators- Learning and School Achievement"
+-
   count: 4
-- domain_category: Heart / Stroke
+  domain_category: "Inpatient Rehabilitation Facility Compare"
+-
   count: 4
-- domain_category: Administrative Data
+  domain_category: "Heart / Stroke"
+-
   count: 4
-- domain_category: Development Approvals, Building Permits, & Inspections
+  domain_category: "Administrative Data"
+-
   count: 4
-- domain_category: NAPLAN Summaries
+  domain_category: "Development Approvals, Building Permits, & Inspections"
+-
   count: 4
-- domain_category: Sustainability and Natural Environment
+  domain_category: "NAPLAN Summaries"
+-
   count: 4
-- domain_category: Thematic Features
+  domain_category: "Sustainability and Natural Environment"
+-
   count: 4
-- domain_category: Planning and Zoning
+  domain_category: "Thematic Features"
+-
   count: 4
-- domain_category: Contracts
+  domain_category: "Planning and Zoning"
+-
   count: 4
-- domain_category: Archived
+  domain_category: Contracts
+-
   count: 4
-- domain_category: Innova6k
+  domain_category: Archived
+-
   count: 4
-- domain_category: Financial Services
+  domain_category: Innova6k
+-
   count: 4
-- domain_category: Renewable Energy
+  domain_category: "Financial Services"
+-
   count: 4
-- domain_category: Court Records
+  domain_category: "Renewable Energy"
+-
   count: 4
-- domain_category: Waste
+  domain_category: "Court Records"
+-
   count: 4
-- domain_category: Physician Compare
+  domain_category: Waste
+-
   count: 4
-- domain_category: Property and Planning
+  domain_category: "Physician Compare"
+-
   count: 4
-- domain_category: Global Survey Data
+  domain_category: "Property and Planning"
+-
   count: 4
-- domain_category: Public Safety and Justice
+  domain_category: "Global Survey Data"
+-
   count: 4
-- domain_category: Geographic Base Layers
+  domain_category: "Public Safety and Justice"
+-
   count: 4
-- domain_category: Schools that Teach
+  domain_category: "Geographic Base Layers"
+-
   count: 4
-- domain_category: HCS Department
+  domain_category: "Schools that Teach"
+-
   count: 4
-- domain_category: Construction and Development
+  domain_category: "HCS Department"
+-
   count: 4
-- domain_category: Economic Development Programs
+  domain_category: "Construction and Development"
+-
   count: 4
-- domain_category: Government That Works
+  domain_category: "Economic Development Programs"
+-
   count: 4
-- domain_category: Vibrant Neighborhoods
+  domain_category: "Government That Works"
+-
   count: 4
-- domain_category: Seguridad Pública
+  domain_category: "Vibrant Neighborhoods"
+-
   count: 4
-- domain_category: Shapefiles
+  domain_category: "Seguridad Pública"
+-
   count: 4
-- domain_category: Forms
+  domain_category: Shapefiles
+-
   count: 4
-- domain_category: Permits and Inspections
+  domain_category: Forms
+-
   count: 4
-- domain_category: Education/Youth/Family
+  domain_category: "Permits and Inspections"
+-
   count: 4
-- domain_category: Historic Resource
+  domain_category: Education/Youth/Family
+-
   count: 4
-- domain_category: Alzheimer
+  domain_category: "Historic Resource"
+-
   count: 4
-- domain_category: Youth Leading Change (YLC)
+  domain_category: Alzheimer
+-
   count: 4
-- domain_category: Public Service Access and Quality
+  domain_category: "Youth Leading Change (YLC)"
+-
   count: 4
-- domain_category: CIP
+  domain_category: "Public Service Access and Quality"
+-
   count: 4
-- domain_category: US Dept of Commerce Bureau of Economic Analysis
+  domain_category: CIP
+-
   count: 4
-- domain_category: Maps, Locations and Boundaries
+  domain_category: "US Dept of Commerce Bureau of Economic Analysis"
+-
   count: 4
-- domain_category: Saftey
+  domain_category: "Maps, Locations and Boundaries"
+-
   count: 4
-- domain_category: City Park and Tree Data
+  domain_category: Saftey
+-
   count: 4
-- domain_category: Publication Statistics
+  domain_category: "City Park and Tree Data"
+-
   count: 4
-- domain_category: Elections-Districts Maps
+  domain_category: "Publication Statistics"
+-
   count: 4
-- domain_category: Scope Statement
+  domain_category: "Elections-Districts Maps"
+-
   count: 4
-- domain_category: CITIZENS AS FIELD AGENTS
+  domain_category: "Scope Statement"
+-
   count: 4
-- domain_category: Familia y Servicio Social
+  domain_category: "CITIZENS AS FIELD AGENTS"
+-
   count: 4
-- domain_category: Special Programs/Initiatives - Long Term Care Facility Staffing
-    Payroll-Based Journal
+  domain_category: "Familia y Servicio Social"
+-
   count: 4
-- domain_category: Development & Infrastructure
+  domain_category: "Special Programs/Initiatives - Long Term Care Facility Staffing Payroll-Based Journal"
+-
   count: 4
-- domain_category: Health, Environment & Community
+  domain_category: "Development & Infrastructure"
+-
   count: 3
-- domain_category: FORMS
+  domain_category: "Health, Environment & Community"
+-
   count: 3
-- domain_category: Workforce Development
+  domain_category: FORMS
+-
   count: 3
-- domain_category: Traumatic Brain Injury
+  domain_category: "Workforce Development"
+-
   count: 3
-- domain_category: People
+  domain_category: "Traumatic Brain Injury"
+-
   count: 3
-- domain_category: Wake County EMS
+  domain_category: People
+-
   count: 3
-- domain_category: Middle School- Emotional Maturity and Mental Health
+  domain_category: "Wake County EMS"
+-
   count: 3
-- domain_category: Office of Community Engagement
+  domain_category: "Middle School- Emotional Maturity and Mental Health"
+-
   count: 3
-- domain_category: Maps and Plats
+  domain_category: "Office of Community Engagement"
+-
   count: 3
-- domain_category: Code Interpretations
+  domain_category: "Maps and Plats"
+-
   count: 3
-- domain_category: Uncategorized
+  domain_category: "Code Interpretations"
+-
   count: 3
-- domain_category: Parks, Recreation & Community Services
+  domain_category: Uncategorized
+-
   count: 3
-- domain_category: Municipal Court
+  domain_category: "Parks, Recreation & Community Services"
+-
   count: 3
-- domain_category: City Businesses
+  domain_category: "Municipal Court"
+-
   count: 3
-- domain_category: Social Development and Infrastructure
+  domain_category: "City Businesses"
+-
   count: 3
-- domain_category: Economy and Demographics
+  domain_category: "Social Development and Infrastructure"
+-
   count: 3
-- domain_category: Land Use and Environment
+  domain_category: "Economy and Demographics"
+-
   count: 3
-- domain_category: Early Childhood Education
+  domain_category: "Land Use and Environment"
+-
   count: 3
-- domain_category: Education and Workforce Development
+  domain_category: "Early Childhood Education"
+-
   count: 3
-- domain_category: Forecasts
+  domain_category: "Education and Workforce Development"
+-
   count: 3
-- domain_category: Economy/Corruption
+  domain_category: Forecasts
+-
   count: 3
-- domain_category: Homelessness
+  domain_category: Economy/Corruption
+-
   count: 3
-- domain_category: Energy Usage
+  domain_category: Homelessness
+-
   count: 3
-- domain_category: Industry
+  domain_category: "Energy Usage"
+-
   count: 3
-- domain_category: Transportation Planning & Traffic Management
+  domain_category: Industry
+-
   count: 3
-- domain_category: Procurement and Contracts
+  domain_category: "Transportation Planning & Traffic Management"
+-
   count: 3
-- domain_category: Innovation
+  domain_category: "Procurement and Contracts"
+-
   count: 3
-- domain_category: Recycling/Conservation
+  domain_category: Innovation
+-
   count: 3
-- domain_category: Data Sharing
+  domain_category: Recycling/Conservation
+-
   count: 3
-- domain_category: HR Department
+  domain_category: "Data Sharing"
+-
   count: 3
-- domain_category: High School- Physical Health and Development
+  domain_category: "HR Department"
+-
   count: 3
-- domain_category: Self-Sufficiency
+  domain_category: "High School- Physical Health and Development"
+-
   count: 3
-- domain_category: Basic City Services
+  domain_category: Self-Sufficiency
+-
   count: 3
-- domain_category: Governance and Rule of Law
+  domain_category: "Basic City Services"
+-
   count: 3
-- domain_category: Long-Term Care Hospital Compare
+  domain_category: "Governance and Rule of Law"
+-
   count: 3
-- domain_category: State of Vermont
+  domain_category: "Long-Term Care Hospital Compare"
+-
   count: 3
-- domain_category: Elementary- Physical Health and Development
+  domain_category: "State of Vermont"
+-
   count: 3
-- domain_category: Middle School- Physical Health and Development
+  domain_category: "Elementary- Physical Health and Development"
+-
   count: 3
-- domain_category: Demographic and Cross Cutting Indicators- Emotional Maturity and
-    Mental Health
+  domain_category: "Middle School- Physical Health and Development"
+-
   count: 3
-- domain_category: Land Records
+  domain_category: "Demographic and Cross Cutting Indicators- Emotional Maturity and Mental Health"
+-
   count: 3
-- domain_category: Supplier Directory
+  domain_category: "Land Records"
+-
   count: 3
-- domain_category: Medicares Helpful Contacts
+  domain_category: "Supplier Directory"
+-
   count: 3
-- domain_category: Health, Education, and Social Services
+  domain_category: "Medicares Helpful Contacts"
+-
   count: 3
-- domain_category: Public Opinion Research
+  domain_category: "Health, Education, and Social Services"
+-
   count: 3
-- domain_category: Historic
+  domain_category: "Public Opinion Research"
+-
   count: 3
-- domain_category: Economic Vitality
+  domain_category: Historic
+-
   count: 3
-- domain_category: Humanitarian
+  domain_category: "Economic Vitality"
+-
   count: 3
-- domain_category: Property Tax
+  domain_category: Humanitarian
+-
   count: 3
-- domain_category: Individual Rights
+  domain_category: "Property Tax"
+-
   count: 3
-- domain_category: Neighborhood
+  domain_category: "Individual Rights"
+-
   count: 3
-- domain_category: FY 2016-2017
+  domain_category: Neighborhood
+-
   count: 3
-- domain_category: Eligibility
+  domain_category: "FY 2016-2017"
+-
   count: 3
-- domain_category: Children & Families
+  domain_category: Eligibility
+-
   count: 3
-- domain_category: Sales
+  domain_category: "Children & Families"
+-
   count: 3
-- domain_category: Elevation
+  domain_category: Sales
+-
   count: 3
-- domain_category: Darfur
+  domain_category: Elevation
+-
   count: 3
-- domain_category: Personal
+  domain_category: Darfur
+-
   count: 3
-- domain_category: Economic & Neighborhood Development
+  domain_category: Personal
+-
   count: 3
-- domain_category: Planning, Zoning
+  domain_category: "Economic & Neighborhood Development"
+-
   count: 3
-- domain_category: Business Licenses
+  domain_category: "Planning, Zoning"
+-
   count: 3
-- domain_category: Pregnancy & Vaccination
+  domain_category: "Business Licenses"
+-
   count: 3
-- domain_category: Materials
+  domain_category: "Pregnancy & Vaccination"
+-
   count: 2
-- domain_category: Weather
+  domain_category: Materials
+-
   count: 2
-- domain_category: LIVES Data
+  domain_category: Weather
+-
   count: 2
-- domain_category: Disability Insurance
+  domain_category: "LIVES Data"
+-
   count: 2
-- domain_category: Environment & Health
+  domain_category: "Disability Insurance"
+-
   count: 2
-- domain_category: Adult Education
+  domain_category: "Environment & Health"
+-
   count: 2
-- domain_category: State Board of Education
+  domain_category: "Adult Education"
+-
   count: 2
-- domain_category: Servicios Públicos
+  domain_category: "State Board of Education"
+-
   count: 2
-- domain_category: National Datasets
+  domain_category: "Servicios Públicos"
+-
   count: 2
-- domain_category: Forest Preserves, Parks & Recreation
+  domain_category: "National Datasets"
+-
   count: 2
-- domain_category: Happiness
+  domain_category: "Forest Preserves, Parks & Recreation"
+-
   count: 2
-- domain_category: Internal
+  domain_category: Happiness
+-
   count: 2
-- domain_category: Citizen Engagement
+  domain_category: Internal
+-
   count: 2
-- domain_category: Safe
+  domain_category: "Citizen Engagement"
+-
   count: 2
-- domain_category: STDs
+  domain_category: Safe
+-
   count: 2
-- domain_category: City Finance and Budget
+  domain_category: STDs
+-
   count: 2
-- domain_category: Built Environment
+  domain_category: "City Finance and Budget"
+-
   count: 2
-- domain_category: News
+  domain_category: "Built Environment"
+-
   count: 2
-- domain_category: Diabetes
+  domain_category: News
+-
   count: 2
-- domain_category: Taxes
+  domain_category: Diabetes
+-
   count: 2
-- domain_category: Demographics, Economy & Jobs
+  domain_category: Taxes
+-
   count: 2
-- domain_category: Conservation
+  domain_category: "Demographics, Economy & Jobs"
+-
   count: 2
-- domain_category: Information Technology
+  domain_category: Conservation
+-
   count: 2
-- domain_category: Local Business Data
+  domain_category: "Information Technology"
+-
   count: 2
-- domain_category: Service requests
+  domain_category: "Local Business Data"
+-
   count: 2
-- domain_category: Counties
+  domain_category: "Service requests"
+-
   count: 2
-- domain_category: Building Permits
+  domain_category: Counties
+-
   count: 2
-- domain_category: Chemistry
+  domain_category: "Building Permits"
+-
   count: 2
-- domain_category: Emergency Management
+  domain_category: Chemistry
+-
   count: 2
-- domain_category: Building
+  domain_category: "Emergency Management"
+-
   count: 2
-- domain_category: Public Property
+  domain_category: Building
+-
   count: 2
-- domain_category: Fire and Rescue
+  domain_category: "Public Property"
+-
   count: 2
-- domain_category: Insurance
+  domain_category: "Fire and Rescue"
+-
   count: 2
-- domain_category: Metro Government
+  domain_category: Insurance
+-
   count: 2
-- domain_category: Public Reports and Maps
+  domain_category: "Metro Government"
+-
   count: 2
-- domain_category: Tourism
+  domain_category: "Public Reports and Maps"
+-
   count: 2
-- domain_category: Dept of Health
+  domain_category: Tourism
+-
   count: 2
-- domain_category: Smarter Students
+  domain_category: "Dept of Health"
+-
   count: 2
-- domain_category: Licenses & Certificates
+  domain_category: "Smarter Students"
+-
   count: 2
-- domain_category: Medical
+  domain_category: "Licenses & Certificates"
+-
   count: 2
-- domain_category: Medicare - Chronic Conditions
+  domain_category: Medical
+-
   count: 2
-- domain_category: Citizen Security
+  domain_category: "Medicare - Chronic Conditions"
+-
   count: 2
-- domain_category: Planning&Zoning
+  domain_category: "Citizen Security"
+-
   count: 2
-- domain_category: Economic / Demographic
+  domain_category: Planning&Zoning
+-
   count: 2
-- domain_category: Retirement Systems Supplemental Information
+  domain_category: "Economic / Demographic"
+-
   count: 2
-- domain_category: Life Enrichment
+  domain_category: "Retirement Systems Supplemental Information"
+-
   count: 2
-- domain_category: Environmentally Conscious Community
+  domain_category: "Life Enrichment"
+-
   count: 2
-- domain_category: Highways and Roads
+  domain_category: "Environmentally Conscious Community"
+-
   count: 2
-- domain_category: Geografía
+  domain_category: "Highways and Roads"
+-
   count: 2
-- domain_category: Dept of Natural Resources
+  domain_category: Geografía
+-
   count: 2
-- domain_category: Safety Net, Homelessness, Public Safety
+  domain_category: "Dept of Natural Resources"
+-
   count: 2
-- domain_category: Parks & Trails
+  domain_category: "Safety Net, Homelessness, Public Safety"
+-
   count: 2
-- domain_category: Special Programs/Initiatives - Children’s Health Insurance Program
+  domain_category: "Parks & Trails"
+-
   count: 1
-- domain_category: Reference materials
+  domain_category: "Special Programs/Initiatives - Children’s Health Insurance Program"
+-
   count: 1
-- domain_category: Social Protection
+  domain_category: "Reference materials"
+-
   count: 1
-- domain_category: Business and Economic Developement
+  domain_category: "Social Protection"
+-
   count: 1
-- domain_category: Videos
+  domain_category: "Business and Economic Developement"
+-
   count: 1
-- domain_category: CNCS Operations
+  domain_category: Videos
+-
   count: 1
-- domain_category: Hazards
+  domain_category: "CNCS Operations"
+-
   count: 1
-- domain_category: Water and Waste
+  domain_category: Hazards
+-
   count: 1
-- domain_category: "Demographics"
+  domain_category: "Water and Waste"
+-
   count: 1
-- domain_category: Marketplace - Pre-Existing Condition Insurance Plan (PCIP)
+  domain_category: Demographics
+-
   count: 1
-- domain_category: YOUTH
+  domain_category: "Marketplace - Pre-Existing Condition Insurance Plan (PCIP)"
+-
   count: 1
-- domain_category: Capital Planning
+  domain_category: YOUTH
+-
   count: 1
-- domain_category: Fire and Rescue Response
+  domain_category: "Capital Planning"
+-
   count: 1
-- domain_category: Media
+  domain_category: "Fire and Rescue Response"
+-
   count: 1
-- domain_category: School Finances
+  domain_category: Media
+-
   count: 1
-- domain_category: Financial Markets and Institutions
+  domain_category: "School Finances"
+-
   count: 1
-- domain_category: Buildings & Trails
+  domain_category: "Financial Markets and Institutions"
+-
   count: 1
-- domain_category: Sheriff
+  domain_category: "Buildings & Trails"
+-
   count: 1
-- domain_category: Economy and Jobs
+  domain_category: Sheriff
+-
   count: 1
-- domain_category: Neighborhood Organizing
+  domain_category: "Economy and Jobs"
+-
   count: 1
-- domain_category: Real Estate, Land Records
+  domain_category: "Neighborhood Organizing"
+-
   count: 1
-- domain_category: Building and Planning
+  domain_category: "Real Estate, Land Records"
+-
   count: 1
-- domain_category: How to Use NJ Open Data
+  domain_category: "Building and Planning"
+-
   count: 1
-- domain_category: Town Services
+  domain_category: "How to Use NJ Open Data"
+-
   count: 1
-- domain_category: Fiscal Year 2017 Proposed to Council
+  domain_category: "Town Services"
+-
   count: 1
-- domain_category: Excel
+  domain_category: "Fiscal Year 2017 Proposed to Council"
+-
   count: 1
-- domain_category: Neighborhood Livability and Social Health
+  domain_category: Excel
+-
   count: 1
-- domain_category: CITY PROCESS  IMPROVEMENTS
+  domain_category: "Neighborhood Livability and Social Health"
+-
   count: 1
-- domain_category: Arts & Culture
+  domain_category: "CITY PROCESS  IMPROVEMENTS"
+-
   count: 1
-- domain_category: Job Specifications
+  domain_category: "Arts & Culture"
+-
   count: 1
-- domain_category: Environmental Stewardship
+  domain_category: "Job Specifications"
+-
   count: 1
-- domain_category: Elections Data
+  domain_category: "Environmental Stewardship"
+-
   count: 1
-- domain_category: Special Programs/Initiatives - Comprehensive Primary Care (CPC)
+  domain_category: "Elections Data"
+-
   count: 1
-- domain_category: Early Education
+  domain_category: "Special Programs/Initiatives - Comprehensive Primary Care (CPC)"
+-
   count: 1
-- domain_category: Dept of Human Services
+  domain_category: "Early Education"
+-
   count: 1
-- domain_category: Beautification
+  domain_category: "Dept of Human Services"
+-
   count: 1
-- domain_category: Safety Net and Homelessness
+  domain_category: Beautification
+-
   count: 1
-- domain_category: Special Programs/Initiatives - Bundled Payments
+  domain_category: "Safety Net and Homelessness"
+-
   count: 1
-- domain_category: Planning and Development
+  domain_category: "Special Programs/Initiatives - Bundled Payments"
+-
   count: 1
-- domain_category: Special Programs/Initiatives - Program Integrity
+  domain_category: "Planning and Development"
+-
   count: 1
-- domain_category: Housing and Real Estate
+  domain_category: "Special Programs/Initiatives - Program Integrity"
+-
   count: 1
-- domain_category: Class Size
+  domain_category: "Housing and Real Estate"
+-
   count: 1
-- domain_category: Procurement Plan Local Law 63
+  domain_category: "Class Size"
+-
   count: 1
-- domain_category: Nature and Environment
+  domain_category: "Procurement Plan Local Law 63"
+-
   count: 1
-- domain_category: Disaster
+  domain_category: "Nature and Environment"
+-
   count: 1
-- domain_category: Loan and Credit Administration
+  domain_category: Disaster
+-
   count: 1
-- domain_category: ENTREPRENEURSHIP
+  domain_category: "Loan and Credit Administration"
+-
   count: 1
-- domain_category: PVSC Finance
+  domain_category: ENTREPRENEURSHIP
+-
   count: 1
-- domain_category: Stories
+  domain_category: "PVSC Finance"
+-
   count: 1
-- domain_category: Stewardship & Sustainability
+  domain_category: Stories
+-
   count: 1
-- domain_category: News Letter
+  domain_category: "Stewardship & Sustainability"
+-
   count: 1
-- domain_category: Training and Wages
+  domain_category: "News Letter"
+-
   count: 1
-- domain_category: Capital Projects
+  domain_category: "Training and Wages"
+-
   count: 1
-- domain_category: Public Use Files
+  domain_category: "Capital Projects"
+-
   count: 1
-- domain_category: Survey Questions (Tobacco Use)
+  domain_category: "Public Use Files"
+-
   count: 1
-- domain_category: Regional Economic Profiles
+  domain_category: "Survey Questions (Tobacco Use)"
+-
   count: 1
-- domain_category: Monthly Status Reports
+  domain_category: "Regional Economic Profiles"
+-
   count: 1
-- domain_category: Integration & Trade
+  domain_category: "Monthly Status Reports"
+-
   count: 1
-- domain_category: TNI
+  domain_category: "Integration & Trade"
+-
   count: 1
-- domain_category: Cemeteries
+  domain_category: TNI
+-
   count: 1
-- domain_category: Compliance
+  domain_category: Cemeteries
+-
   count: 1
-- domain_category: Special Programs/Initiatives - Accelerate Payment & Service Delivery
+  domain_category: Compliance
+-
   count: 1
-- domain_category: Special Events
+  domain_category: "Special Programs/Initiatives - Accelerate Payment & Service Delivery"
+-
   count: 1
-- domain_category: Reference data
+  domain_category: "Special Events"
+-
   count: 1
-- domain_category: Lobbyists
+  domain_category: "Reference data"
+-
   count: 1
-- domain_category: Museum Universe Data File
+  domain_category: Lobbyists
+-
   count: 1
-- domain_category: International
+  domain_category: "Museum Universe Data File"
+-
   count: 1
-- domain_category: Government & Taxes
+  domain_category: International
+-
   count: 1
-- domain_category: Injury & Violence
+  domain_category: "Government & Taxes"
+-
   count: 1
-- domain_category: Insect Control
+  domain_category: "Injury & Violence"
+-
   count: 1
-- domain_category: Public Safety and Emergency Management
+  domain_category: "Insect Control"
+-
   count: 1
-- domain_category: Municipal Finance
+  domain_category: "Public Safety and Emergency Management"
+-
   count: 1
-- domain_category: Agriculture and Rural Development
+  domain_category: "Municipal Finance"
+-
   count: 1
-- domain_category: Places & Boundaries
+  domain_category: "Agriculture and Rural Development"
+-
   count: 1
-- domain_category: High Cost
+  domain_category: "Places & Boundaries"
+-
   count: 1
-- domain_category: Government Buildings and Structures
+  domain_category: "High Cost"
+-
   count: 1
-- domain_category: Infraestructura
+  domain_category: "Government Buildings and Structures"
+-
   count: 1
-- domain_category: Provider Type - Home Health Agency (HHA)
+  domain_category: Infraestructura
+-
   count: 1
-- domain_category: Electores
+  domain_category: "Provider Type - Home Health Agency (HHA)"
+-
   count: 1
-- domain_category: Roadways and Bridges
+  domain_category: Electores
+-
   count: 1
-- domain_category: Local Law 11 Compliance Plan
+  domain_category: "Roadways and Bridges"
+-
   count: 1
-- domain_category: City Governance
+  domain_category: "Local Law 11 Compliance Plan"
+-
   count: 1
-- domain_category: Tickets and Adjudication
+  domain_category: "City Governance"
+-
   count: 1
-- domain_category: POLICE (NYC Police Pension Fund)
+  domain_category: "Tickets and Adjudication"
+-
   count: 1
-- domain_category: Turismo
+  domain_category: "POLICE (NYC Police Pension Fund)"
+-
   count: 1
-- domain_category: Lifeline
+  domain_category: Turismo
+-
   count: 1
+  domain_category: Lifeline
