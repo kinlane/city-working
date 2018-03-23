@@ -1,0 +1,38 @@
+---
+layout: default
+title: API Evangelist - 311
+---
+
+<!-- Organizations -->
+<a name="Domain"></a>
+{% assign domains = site.data.domain| sort: 'domain' %}
+{% assign categories = site.data.categories | sort: 'domain_category' %}
+<section>
+	<header>
+		<h2>City Data - Working</h2>
+	</header>
+	<table width="100%">
+		<tr>
+			<td width="50%" valign="top">
+				<table width="100%">
+				{% for domain in domains %}
+					<tr>
+						<td>{{ domain.domain }}</td>
+						<td width="10%" align="center">{{ domain.count }}</td>
+					</tr>
+				{% endfor %}
+				</table>
+			</td>
+			<td width="50%" valign="top">
+				<table width="100%">
+				{% for category in categories %}
+					<tr>
+						<td>{{ category.domain_category }}</td>
+						<td width="10%" align="center">{{ category.count }}</td>
+					</tr>
+				{% endfor %}
+				</table>
+			</td>
+		</tr>
+	</table>
+</section>
