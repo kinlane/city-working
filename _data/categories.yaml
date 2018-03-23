@@ -1871,7 +1871,7 @@
   count: 1
 - domain_category: Water and Waste
   count: 1
-- domain_category: "'Demographics'"
+- domain_category: 'Demographics'
   count: 1
 - domain_category: Marketplace - Pre-Existing Condition Insurance Plan (PCIP)
   count: 1
