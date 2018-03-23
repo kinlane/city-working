@@ -15,8 +15,6 @@
   count: 773
 - domain: bythenumbers.sco.ca.gov
   count: 102
-- domain: ca-boe
-  count: 0
 - domain: census.data.commerce.gov
   count: 212
 - domain: chhs.data.ca.gov
@@ -29,8 +27,6 @@
   count: 7
 - domain: controllerdata.lacity.org
   count: 1001
-- domain: cookcounty
-  count: 0
 - domain: dashboard.alexandriava.gov
   count: 377
 - domain: dashboard.edmonton.ca
@@ -163,8 +159,6 @@
   count: 4663
 - domain: data.kingcounty.gov
   count: 883
-- domain: data.kray.com
-  count: 0
 - domain: data.lacity.org
   count: 543
 - domain: data.lacounty.gov
@@ -337,14 +331,10 @@
   count: 318
 - domain: debtwatch.treasury.ri.gov
   count: 60
-- domain: dontuse.ly
-  count: 0
 - domain: eda.data.commerce.gov
   count: 1
 - domain: electionsdata.kingcounty.gov
   count: 496
-- domain: esa.data.commerce.gov
-  count: 0
 - domain: finances.worldbank.org
   count: 3066
 - domain: flintactiontracker.michigan.gov
@@ -353,8 +343,6 @@
   count: 101
 - domain: greengov.data.ca.gov
   count: 85
-- domain: hartstat.hartford.gov
-  count: 0
 - domain: health.data.ny.gov
   count: 548
 - domain: healthdata.nj.gov
@@ -373,14 +361,8 @@
   count: 58
 - domain: ita.data.commerce.gov
   count: 31
-- domain: katie-ra-test
-  count: 0
 - domain: kcstat.kcmo.org
   count: 293
-- domain: kray
-  count: 0
-- domain: mbda.data.commerce.gov
-  count: 0
 - domain: midashboard.michigan.gov
   count: 485
 - domain: mydata.iadb.org
@@ -421,8 +403,6 @@
   count: 16
 - domain: openperformance.ramseycounty.us
   count: 94
-- domain: orlando
-  count: 0
 - domain: performance.action.act.gov.au
   count: 40
 - domain: performance.adcogov.org
@@ -453,8 +433,6 @@
   count: 240
 - domain: performance.providenceri.gov
   count: 45
-- domain: performance.sandiegocounty.gov
-  count: 0
 - domain: performance.seattle.gov
   count: 745
 - domain: performance.smcgov.org
@@ -475,24 +453,18 @@
   count: 148
 - domain: reports.awcnet.org
   count: 1
-- domain: reports.data.imls.gov
-  count: 0
 - domain: reports.data.montgomerycountymd.gov
   count: 5254
 - domain: researchdata.nist.gov
   count: 23
 - domain: results.livewellsd.org
   count: 154
-- domain: ship.dfs.ny.gov
-  count: 0
 - domain: stat.cityofgainesville.org
   count: 780
 - domain: stats.cityofcarrollton.com
   count: 32
 - domain: strategicplanning1.aspe.hhs.gov
   count: 13
-- domain: stubox
-  count: 0
 - domain: sustainability.metroairports.org
   count: 37
 - domain: tni.princegeorgescountymd.gov
