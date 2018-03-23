@@ -7,6 +7,10 @@ title: API Evangelist - 311
 <a name="Domain"></a>
 {% assign domains = site.data.domain| sort: 'domain' %}
 {% assign categories = site.data.categories | sort: 'domain_category' %}
+{% assign domain_count = 0 %}
+{% assign domain_data_count = 0 %}
+{% assign category_count = 0 %}
+{% assign category_data_count = 0 %}
 <section>
 	<header>
 		<h2>City Data - Working</h2>
@@ -20,7 +24,13 @@ title: API Evangelist - 311
 						<td><a href="{{ domain.domain }}" target="_blank">{{ domain.domain }}</a></td>
 						<td width="10%" align="center">{{ domain.count }}</td>
 					</tr>
+					{% assign domain_count = domain_count | plus: 1 %}
+					{% assign domain_data_count = domain_data_count | plus: domain.count %}
 				{% endfor %}
+				<tr>
+					<td><strong>Total: {{ domain_count }}</strong></td>
+					<td><strong>Total: {{ domain_data_count }}</strong></td>
+				</tr>
 				</table>
 			</td>
 			<td width="50%" valign="top">
@@ -30,7 +40,13 @@ title: API Evangelist - 311
 						<td>{{ category.domain_category }}</td>
 						<td width="10%" align="center">{{ category.count }}</td>
 					</tr>
+					{% assign category_count = category_count | plus: 1 %}
+					{% assign category_data_count = category_data_count | plus: category.count %}
 				{% endfor %}
+				<tr>
+					<td><strong>Total: {{ category_count }}</strong></td>
+					<td><strong>Total: {{ category_data_count }}</strong></td>
+				</tr>
 				</table>
 			</td>
 		</tr>
