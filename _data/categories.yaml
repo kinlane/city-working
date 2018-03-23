@@ -107,7 +107,7 @@
   count: 365
 - domain_category: Energy and Environment
   count: 360
-- domain_category: 'Goal 5: Efficient, Effective, and Accountable Government'
+- domain_category: 'Efficient, Effective, and Accountable Government'
   count: 356
 - domain_category: Surveys
   count: 355
@@ -123,7 +123,7 @@
   count: 340
 - domain_category: Land Development
   count: 335
-- domain_category: 'Goal 4: Healthy and Safe Communities'
+- domain_category: 'Healthy and Safe Communities'
   count: 325
 - domain_category: Transportation & Utilities
   count: 320
@@ -149,15 +149,15 @@
   count: 276
 - domain_category: Business and Economy
   count: 256
-- domain_category: 'Goal 2: Prosperous Economy'
+- domain_category: 'Prosperous Economy'
   count: 247
 - domain_category: Administrative
   count: 235
-- domain_category: Marketplace - Indian Health Care Providers
+- domain_category: Indian Health Care Providers
   count: 231
 - domain_category: Vivienda, Ciudad y Territorio
   count: 230
-- domain_category: 'Goal 3: Sustainable Energy and a Clean Environment'
+- domain_category: 'Sustainable Energy and a Clean Environment'
   count: 220
 - domain_category: Aerospace
   count: 218
@@ -185,7 +185,7 @@
   count: 183
 - domain_category: Finance & Administration
   count: 180
-- domain_category: 'Goal 1: World Class Education'
+- domain_category: 'World Class Education'
   count: 177
 - domain_category: A Prosperous City
   count: 175
@@ -495,7 +495,7 @@
   count: 44
 - domain_category: Lands, Forests and Wildlife
   count: 43
-- domain_category: Special Programs/Initiatives - Speed Adoption of Best Practices
+- domain_category: Speed Adoption of Best Practices
   count: 43
 - domain_category: Education - Primary to Grade 12
   count: 43
@@ -671,8 +671,7 @@
   count: 28
 - domain_category: Property & Planning
   count: 28
-- domain_category: Special Programs/Initiatives - Medicare Shared Savings Program
-    (MSSP)
+- domain_category: Medicare Shared Savings Program
   count: 27
 - domain_category: TRANSPORTATION
   count: 27
@@ -778,7 +777,7 @@
   count: 23
 - domain_category: 'Parcel '
   count: 23
-- domain_category: Geographic Information (GIS)
+- domain_category: Geographic Information
   count: 23
 - domain_category: California Corporation Tax
   count: 23
@@ -832,7 +831,7 @@
   count: 20
 - domain_category: Gender
   count: 20
-- domain_category: Medicare - Clinical Laboratory Improvement Amendments (CLIA/lab)
+- domain_category: Medicare - Clinical Laboratory Improvement Amendments
   count: 20
 - domain_category: Locks
   count: 20
@@ -880,7 +879,7 @@
   count: 18
 - domain_category: Budget/Finance
   count: 18
-- domain_category: Marketplace - Qualified Health Plan (QHP)
+- domain_category: Qualified Health Plan
   count: 18
 - domain_category: Community Centres
   count: 18
@@ -1203,7 +1202,7 @@
   count: 10
 - domain_category: Mental Health
   count: 10
-- domain_category: City Manager's Office (Finance)
+- domain_category: City Manager's Office
   count: 10
 - domain_category: Calls For Service
   count: 10
@@ -1257,11 +1256,11 @@
   count: 9
 - domain_category: Special Programs/Initiatives
   count: 9
-- domain_category: Geospatial (general)
+- domain_category: Geospatial
   count: 9
 - domain_category: Neighborhoods / Environment
   count: 9
-- domain_category: Medicare - Home Health Agency (HHA)
+- domain_category: Medicare - Home Health Agency
   count: 9
 - domain_category: Public Transit
   count: 9
@@ -1275,7 +1274,7 @@
   count: 9
 - domain_category: Public Finance
   count: 8
-- domain_category: Performance Management Framework (PMF)
+- domain_category: Performance Management Framework
   count: 8
 - domain_category: Science and Technology
   count: 8
@@ -1339,7 +1338,7 @@
   count: 7
 - domain_category: Education K-12
   count: 7
-- domain_category: Vocational Education & Training (VET)
+- domain_category: Vocational Education & Training
   count: 7
 - domain_category: Assets
   count: 7
@@ -1417,7 +1416,7 @@
   count: 6
 - domain_category: Middle School- Learning and School Achievement
   count: 6
-- domain_category: Marketplace - Eligible Uninsured People for Outreach
+- domain_category: Eligible Uninsured People for Outreach
   count: 6
 - domain_category: Unique and Inclusive Neighborhoods
   count: 6
@@ -1599,7 +1598,7 @@
   count: 4
 - domain_category: Alzheimer
   count: 4
-- domain_category: Youth Leading Change (YLC)
+- domain_category: Youth Leading Change
   count: 4
 - domain_category: Public Service Access and Quality
   count: 4
@@ -1623,7 +1622,7 @@
   count: 4
 - domain_category: Familia y Servicio Social
   count: 4
-- domain_category: Special Programs/Initiatives - Long Term Care Facility Staffing
+- domain_category: Long Term Care Facility Staffing
     Payroll-Based Journal
   count: 4
 - domain_category: Development & Infrastructure
@@ -1855,7 +1854,7 @@
   count: 2
 - domain_category: Parks & Trails
   count: 2
-- domain_category: Special Programs/Initiatives - Children’s Health Insurance Program
+- domain_category: Children’s Health Insurance Program
   count: 1
 - domain_category: Reference materials
   count: 1
@@ -1873,7 +1872,7 @@
   count: 1
 - domain_category: 'Demographics'
   count: 1
-- domain_category: Marketplace - Pre-Existing Condition Insurance Plan (PCIP)
+- domain_category: Pre-Existing Condition Insurance Plan
   count: 1
 - domain_category: YOUTH
   count: 1
@@ -1919,7 +1918,7 @@
   count: 1
 - domain_category: Elections Data
   count: 1
-- domain_category: Special Programs/Initiatives - Comprehensive Primary Care (CPC)
+- domain_category: Comprehensive Primary Care
   count: 1
 - domain_category: Early Education
   count: 1
@@ -1929,11 +1928,11 @@
   count: 1
 - domain_category: 'A New Day for: Safety Net and Homelessness'
   count: 1
-- domain_category: Special Programs/Initiatives - Bundled Payments
+- domain_category: Bundled Payments
   count: 1
 - domain_category: Planning and Development
   count: 1
-- domain_category: Special Programs/Initiatives - Program Integrity
+- domain_category: Program Integrity
   count: 1
 - domain_category: Housing and Real Estate
   count: 1
@@ -1977,7 +1976,7 @@
   count: 1
 - domain_category: Compliance
   count: 1
-- domain_category: Special Programs/Initiatives - Accelerate Payment & Service Delivery
+- domain_category: Accelerate Payment & Service Delivery
   count: 1
 - domain_category: Special Events
   count: 1
