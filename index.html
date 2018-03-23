@@ -21,12 +21,12 @@ title: API Evangelist - 311
 				<table width="100%">
 					<tr>
 						<td><strong>Domains</strong></td>
-						<td><strong>Number of Datasets</strong></td>
+						<td><strong>Datasets</strong></td>
 					</tr>
 				{% for domain in domains %}
 					<tr>
 						<td><a href="http://{{ domain.domain }}" target="_blank">{{ domain.domain }}</a></td>
-						<td width="10%" align="center">{{ domain.count }}</td>
+						<td width="25%" align="center">{{ domain.count }}</td>
 					</tr>
 					{% assign domain_count = domain_count | plus: 1 %}
 					{% assign domain_data_count = domain_data_count | plus: domain.count %}
@@ -41,12 +41,12 @@ title: API Evangelist - 311
 				<table width="100%">
 					<tr>
 						<td><strong>Tags</strong></td>
-						<td><strong>Number of Datasets</strong></td>
+						<td><strong>Datasets</strong></td>
 					</tr>
 				{% for category in categories %}
 					<tr>
 						<td>{{ category.domain_category }}</td>
-						<td width="10%" align="center">{{ category.count }}</td>
+						<td width="25%" align="center">{{ category.count }}</td>
 					</tr>
 					{% assign category_count = category_count | plus: 1 %}
 					{% assign category_data_count = category_data_count | plus: category.count %}
