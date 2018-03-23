@@ -19,6 +19,10 @@ title: API Evangelist - 311
 		<tr>
 			<td width="50%" valign="top">
 				<table width="100%">
+					<tr>
+						<td><strong>Domains</strong></td>
+						<td><strong>Number of Datasets</strong></td>
+					</tr>
 				{% for domain in domains %}
 					<tr>
 						<td><a href="http://{{ domain.domain }}" target="_blank">{{ domain.domain }}</a></td>
@@ -35,6 +39,10 @@ title: API Evangelist - 311
 			</td>
 			<td width="50%" valign="top">
 				<table width="100%">
+					<tr>
+						<td><strong>Tags</strong></td>
+						<td><strong>Number of Datasets</strong></td>
+					</tr>
 				{% for category in categories %}
 					<tr>
 						<td>{{ category.domain_category }}</td>
